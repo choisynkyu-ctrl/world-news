@@ -1,0 +1,70 @@
+name: Daily World News
+
+on:
+  schedule:
+    # 매일 06:45 KST (21:45 UTC). GitHub 스케줄은 수 분~수십 분 늦게 시작될 수 있어 미리 실행.
+    - cron: "45 21 * * *"
+  workflow_dispatch: {}   # Actions 탭에서 수동 실행
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-news
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    env:
+      DASHBOARD_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: 뉴스 수집 · 선정 · 대시보드 생성
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python -m src.main build
+
+      - name: 대시보드 커밋 (GitHub Pages 반영)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          git commit -m "news: $(TZ=Asia/Seoul date +%F)" || echo "변경 없음"
+          git push
+
+      - name: Pages 반영 대기
+        run: sleep 90
+
+      - name: 카카오톡 전송
+        env:
+          KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}
+          KAKAO_CLIENT_SECRET: ${{ secrets.KAKAO_CLIENT_SECRET }}
+          KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
+          NEW_REFRESH_TOKEN_FILE: ${{ runner.temp }}/kakao_refresh_token
+        run: python -m src.main notify
+
+      - name: 카카오 refresh token 자동 갱신
+        if: always()
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          F: ${{ runner.temp }}/kakao_refresh_token
+        run: |
+          if [ -s "$F" ]; then
+            if [ -z "$GH_TOKEN" ]; then
+              echo "::warning::refresh token이 갱신됐지만 GH_PAT이 없어 Secret을 업데이트하지 못했습니다. README의 토큰 재발급 절차를 따르세요."
+            else
+              gh secret set KAKAO_REFRESH_TOKEN --repo "$GITHUB_REPOSITORY" < "$F"
+              echo "KAKAO_REFRESH_TOKEN Secret 업데이트 완료"
+            fi
+            rm -f "$F"
+          fi

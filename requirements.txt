@@ -1,0 +1,3 @@
+feedparser>=6.0
+requests>=2.31
+tzdata  # Windows에서 Asia/Seoul 시간대 사용
