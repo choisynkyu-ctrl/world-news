@@ -1,24 +1,19 @@
 {
-  "headline_of_day": "트럼프의 개입으로 젠슨 황이 엔비디아에 복귀하며 시장이 요동친 가운데, 우크라이나전의 지중해 확산과 호르무즈 기뢰 피격 등 글로벌 지정학적 안보 위기가 고조되고 있습니다.",
+  "headline_of_day": "미 트럼프 대통령의 개입으로 젠슨 황이 엔비디아 CEO로 전격 복귀한 가운데, 화웨이의 기술 유출 유죄 판결과 베네수엘라의 대규모 국가 부채 공개 등 글로벌 정치·경제의 격변이 이어지고 있습니다.",
   "stories": [
     {
       "rank": 1,
-      "category": "기술/과학",
+      "category": "경제/금융",
       "region": "미국",
-      "title": "트럼프 압박에 젠슨 황 엔비디아 복귀… 시장 요동",
-      "short_title": "젠슨 황 엔비디아 복귀",
-      "summary": "도널드 트럼프 미국 대통령의 중재와 압박 속에 사임했던 젠슨 황이 엔비디아 최고경영자(CEO)로 전격 복귀했습니다. 엔비디아 시가총액은 단숨에 1조 달러 가까이 회복됐으나, 이사회 독립성 훼손 논란과 연방 정부의 안보 조사는 지속되고 있습니다.",
-      "why_it_matters": "글로벌 AI 혁신을 이끄는 핵심 빅테크의 경영권 향방이자 미 행정부의 전례 없는 기업 개입이라는 점에서 전 세계 경제에 파장이 큽니다.",
+      "title": "트럼프 개입 속 젠슨 황 엔비디아 CEO 복귀",
+      "short_title": "젠슨 황 CEO 복귀",
+      "summary": "도널드 트럼프 미 대통령의 압박과 중재로 사임했던 젠슨 황이 엔비디아 최고경영자(CEO)로 전격 복귀했습니다. 이 과정에서 미국 정부가 안보 우려와 이사회 권한을 무시했다는 지적과 함께 찬반 양론이 거세게 일고 있습니다.",
+      "why_it_matters": "미국 최고 권력자가 민간 기업의 인사와 지배구조에 직접 개입한 전례 없는 사건으로, 글로벌 기술 패권 경쟁에 큰 파장을 미치고 있습니다.",
       "sources": [
         {
           "name": "BBC",
-          "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
-          "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "BBC",
-          "title": "What Jensen Huang's return teaches China's Xi about Trump",
-          "link": "https://www.bbc.co.uk/news/articles/c63rgpy50x98o?at_medium=RSS&at_campaign=rss"
+          "title": "US attorney general dodges questions about Nvidia investigation",
+          "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "BBC",
@@ -26,24 +21,19 @@
           "link": "https://www.bbc.co.uk/news/videos/ckedq2edqegzo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "BBC",
-          "title": "The rise and fall and rise again of Jensen Huang",
-          "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss"
+          "name": "BBC Business",
+          "title": "Faisal Islam: Fears over the AI boom haven't gone away",
+          "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "BBC Business",
-          "title": "Faisal Islam: Why Jensen Huang proved too big to fire",
-          "link": "https://www.bbc.co.uk/news/articles/ckr5g8edl94eo?at_medium=RSS&at_campaign=rss"
+          "title": "Trump faces backlash after saying he 'convinced' Nvidia to reinstate CEO Jensen Huang",
+          "link": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "BBC Business",
           "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
           "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "BBC Business",
-          "title": "How important are Nvidia and Jensen Huang to the US economy?",
-          "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss"
         },
         {
           "name": "BBC Business",
@@ -56,19 +46,9 @@
           "link": "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "BBC Business",
-          "title": "Nvidia reinstates CEO after affair with alleged spy",
-          "link": "https://www.bbc.co.uk/news/videos/cqze7lwdglngo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "title": "The Nvidia case is just the latest episode of Trump disregarding intelligence",
-          "link": "https://www.theguardian.com/technology/2026/nov/24/nvidia-trump-huang-intelligence"
-        },
-        {
           "name": "NYT",
-          "title": "For China, Jensen Huang’s Return to Nvidia Is a Mixed Blessing",
-          "link": "https://www.nytimes.com/2026/11/24/world/asia/jensen-huang-nvidia-china.html"
+          "title": "National Security vs. the Stock Market",
+          "link": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html"
         },
         {
           "name": "NYT",
@@ -87,13 +67,13 @@
         },
         {
           "name": "NYT Business",
-          "title": "How Huang’s Return Rewrote Corporate America’s Rules",
-          "link": "https://www.nytimes.com/2026/11/24/business/dealbook/huang-nvidia-trump.html"
+          "title": "Blanche Downplays Questions Over Nvidia as Company’s Customers Come Under Scrutiny",
+          "link": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html"
         },
         {
           "name": "NYT Business",
-          "title": "From Chinese Factory Town to the Nvidia Scandal: The Rise of Alice Huang",
-          "link": "https://www.nytimes.com/2026/11/24/business/nvidia-alice-huang-china.html"
+          "title": "How Huang’s Return Rewrote Corporate America’s Rules",
+          "link": "https://www.nytimes.com/2026/11/24/business/dealbook/huang-nvidia-trump.html"
         },
         {
           "name": "NYT Business",
@@ -131,34 +111,44 @@
           "link": "https://www.nytimes.com/2026/11/22/business/nvidia-stock-huang-ai-sp500-markets.html"
         },
         {
-          "name": "Al Jazeera",
-          "title": "Nvidia stock cools after Huang’s return-driven surge",
-          "link": "https://www.aljazeera.com/economy/2026/11/24/nvidia-stock-cools-after-huangs-return-driven-surge?traffic_source=rss"
-        },
-        {
-          "name": "Al Jazeera",
-          "title": "Jensen Huang’s Nvidia return: Who are the big winners and losers?",
-          "link": "https://www.aljazeera.com/features/2026/11/24/jensen-huangs-nvidia-return-whore-the-big-winners-and-losers?traffic_source=rss"
-        },
-        {
-          "name": "Al Jazeera",
-          "title": "Trump’s Nvidia intervention: What’s at stake?",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/trumps-nvidia-intervention-whats-at-stake?traffic_source=rss"
-        },
-        {
           "name": "NPR",
           "title": "Jensen Huang returns to Nvidia. And, Rep. Gomez resigns amid alleged sexual misconduct",
           "link": "https://www.npr.org/2026/11/24/g-s1-155227/up-first-newsletter-nvidia-jensen-huang-trump-ukraine-russia-jimmy-gomez"
         },
         {
           "name": "CNBC",
-          "title": "Nasdaq declines as Nvidia slides, giving back part of Monday’s rally: Live updates",
+          "title": "Nasdaq slumps about 1.5% as Nvidia comeback reverses course and Anthropic breaks IPO price: Live updates",
           "link": "https://www.cnbc.com/2026/11/23/stock-market-today-live-updates.html"
         },
         {
           "name": "CNBC",
-          "title": "Jensen Huang faces DC grilling the same day Nvidia releases new products at GTC",
+          "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
+          "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"
+        },
+        {
+          "name": "CNBC",
+          "title": "AI debt markets shudder as Nvidia's top 'banker' returns",
+          "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-ai-credit-markets.html"
+        },
+        {
+          "name": "CNBC",
+          "title": "Jensen Huang to face DC grilling the same day Nvidia releases new products at GTC",
           "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-congress-gtc.html"
+        },
+        {
+          "name": "CNBC",
+          "title": "Markets cheer Huang’s return to Nvidia. CNBC anchors unpack what comes next",
+          "link": "https://www.cnbc.com/video/2026/11/24/markets-huang-return-nvidia-governance.html"
+        },
+        {
+          "name": "CNBC",
+          "title": "Op-ed: Trump’s Nvidia board intervention put a price on national security. Our adversaries will take note",
+          "link": "https://www.cnbc.com/2026/11/24/trump-nvidia-jensen-huang-national-security-china-chips.html"
+        },
+        {
+          "name": "CNBC",
+          "title": "AG Blanche, FBI’s Patel dodge questions about Jensen Huang investigation",
+          "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-fbi-doj-patel-blanche.html"
         },
         {
           "name": "CNBC",
@@ -177,55 +167,98 @@
         },
         {
           "name": "CNBC",
-          "title": "Markets cheer Huang’s return to Nvidia. CNBC anchors unpack what comes next",
-          "link": "https://www.cnbc.com/video/2026/11/24/markets-huang-return-nvidia-governance.html"
-        },
-        {
-          "name": "CNBC",
           "title": "Jensen Huang is ‘too big to fire,’ putting Nvidia’s governance in focus: analysts",
           "link": "https://www.cnbc.com/2026/11/24/nvidia-jensen-huang-governance.html"
         },
         {
-          "name": "CNBC",
-          "title": "Nvidia surge: What investors should do with the stock and the AI trade now",
-          "link": "https://www.cnbc.com/2026/11/23/nvidia-stock-jensen-huang-ai-trade.html"
-        },
-        {
-          "name": "CNBC",
-          "title": "U.S. probes Megaspeed, Alice Huang as new figure emerges in Nvidia chip case",
-          "link": "https://www.cnbc.com/2026/11/23/nvidia-megaspeed-chipmaker-us.html"
-        },
-        {
-          "name": "CNBC",
-          "title": "Trump sealed deal for Nvidia to rehire Jensen Huang as CEO",
-          "link": "https://www.cnbc.com/2026/11/23/trump-nvidia-jensen-huang.html"
+          "name": "Google News",
+          "title": "Jensen Huang Apologizes to Nvidia Employees and Says He Is in Therapy - The New York Times",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNV9IMGNKck1YZzRSOHNiSVJRQ05tMkJmWmYycGxzcWZJSWtza0UyR3lDN0hVNjdGYVRpcDFfMlhmSnplWENQSjRwV1Z4RGQzWWFHZXd4dVE5b0x4XzV5bjNjVDJzWXUybURjejU3ZzdlRmltU25BZlNKRmZHTGRvaTY2eVdNUlU1d1E?oc=5"
         },
         {
           "name": "Google News",
-          "title": "Jensen Huang Divorce Speculation Amid New Affair Report: Why Wife Lori Huang Could Walk Away With Half - Forbes",
-          "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSFNlaWJtdkVCT0VpcWs2TDZZdjBfTGl0Zi1DTVZNQTMyVTk3OVh5bno0SHNtRHVpNVVnakZXNWx0b3dld1l2MzlFX2dOOEZ0alJ3aUNXdDF6WVY4bGhTeFg5TlJTQWlsdlp1Q3VWMWM4UlZvVmI4SC1BUFdtOXdObkJNN1ZNQThwVXpzd3N2TzBZOVZrdnNyRmJjeUxMUkh0OE5vd1FUQXVfbTJKSGc4YWRwRklxcVNRTnVva3lwSVFoMWNCWnY5azl3ME9RV0tnOXFEYTFONlZCaVpnMXJmNHdkZVVfRzRVRmU3YzRBclB3SmxSeHd6am9iYlBmOWpZV2c?oc=5"
+          "title": "Stock Market Today: Tech Stocks Slide Back After Epic Rally - WSJ",
+          "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZXlxSS1BVUtJb1k0ZXdNbzVmT05FbjlkNjd0dFExSGdBVkFwYXBvTVJoeGZ3dXdaOUhhOV9aYVMyblZlXzd1STVtdUhXQUZQTEVUU1NwdzlkRzV1ekVDVDFkOHBoUkNIVDFFUXJzVWRLbFpmOS0yckQ2UWM5TmRRSm5LejdvRzA?oc=5"
         },
         {
           "name": "Google News",
-          "title": "Trump Administration Imposes Sanctions on Megaspeed, Singaporean Firm at Center of Nvidia Scandal - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNXE4aUdTVGFvS0Nqd0tXS2E2Y2IyU0dQSEhGRVM2WlVwdXRRczRRUlNuZ09QWjY0OUJrLVZYeEdTaE9hTW83VG9mMV9aVFNVZWQzT3QwMXZaNGd0WmV5LXE2QURZQ1lUSlI5VWdSLWlOYkp0OFZZVFlvMDVYbmhERk91cUZkcGd1dm1UTkMtTEJvU2pmRHk4WW95RUc0SmNQdllqbw?oc=5"
+          "title": "US Blacklists Alibaba-Owned Company in Setback to AI Ambitions - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNc2hMdW1ld1ZLcS1NQk9hNjN3Q3BrMFc2WUZvelRPS2dTMmNUYXVqbFkwOUJoei1URzV5WTNvalhfRUdxQldmcVdsV2F5VzUzdzhZR08wMFVlREVsZV9rcFNTel9SYkNMWk1EbW82ZGlyQjlCbjVOVExWeVJZOXpfckRGMEJTdUE3QkJvWTA0dERBOUVmakRfbzFfNG5tYlJqUnMteUJaWlE5NjA2cFVjejZYcw?oc=5"
         }
       ]
     },
     {
       "rank": 2,
-      "category": "분쟁/안보",
-      "region": "유럽",
-      "title": "우크라이나, 리비아 해상 러 군함 격침… 전선 확대",
-      "short_title": "우크라, 러 군함 격침",
-      "summary": "우크라이나군이 해상 드론을 투입해 북아프리카 리비아 해역에 정박 중이던 러시아 최신 초계함 '메르쿠리'를 침몰시키고 화물선을 타격했습니다. 젤렌스키 대통령은 전선 밖에서도 러시아 함정에 대한 공격을 이어가겠다고 선언했습니다.",
-      "why_it_matters": "우크라이나 전쟁의 교전 반경이 흑해를 넘어 지중해와 아프리카로 확장되며 국제 안보 분쟁의 전선이 대폭 넓어지고 있습니다.",
+      "category": "기술/과학",
+      "region": "미국",
+      "title": "미 법원, 화웨이 영업비밀 절도 혐의 유죄 선고",
+      "short_title": "화웨이 유죄 선고",
+      "summary": "미국 뉴욕에서 진행된 수개월 간의 재판 끝에 중국 통신장비업체 화웨이가 영업비밀 절도 등 혐의에 대해 유죄 판결을 받았습니다. 다만 배심원단은 가장 무거운 혐의인 범죄 조직 가담(랙티어링)에 대해서는 무죄를 선고했습니다.",
+      "why_it_matters": "미·중 기술 전쟁 속에서 중국 거대 IT 기업의 불법 행위가 미국 법원에서 사법적으로 단죄되면서 양국 간 기술 안보 갈등이 더욱 심화될 전망입니다.",
       "sources": [
         {
           "name": "BBC",
-          "title": "Ukraine shares video of strikes on Russian ships off Libya",
-          "link": "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo?at_medium=RSS&at_campaign=rss"
+          "title": "Huawei found guilty of stealing trade secrets but acquitted of racketeering",
+          "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
         },
+        {
+          "name": "Al Jazeera",
+          "title": "Chinese tech giant Huawei found guilty of conspiracy to steal trade secrets",
+          "link": "https://www.aljazeera.com/economy/2026/11/24/chinese-tech-giant-huawei-found-guilty-of-conspiracy-to-steal-trade-secrets?traffic_source=rss"
+        },
+        {
+          "name": "Google News",
+          "title": "Huawei Found Guilty of US Criminal Charges in Landmark Case - Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOcXF1dllwcm1uOWZNWUZIVGMyeTVzTURuTl9aUy1lOUliTVhOZ0NqdzVjc2xYYmZCMjd1cU42V1R6T3MwRDhiVGtrMGs3OU1abS1Wb0hsLTBrZVZ1NlQzU2VaenhFcjR6ZzZQMFZGQWotejdiQ1Z3SUx4cF8xb1pJaFhna2JZa1JtVHdwUGFmZHJwQzJUR0pNN00yeEEtOVQ2RjE0N2c5R2w5dnZfTGJz?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "경제/금융",
+      "region": "남미",
+      "title": "베네수엘라, 역사적 부채 재조정 앞두고 2400억 달러 부채 공개",
+      "short_title": "베네수엘라 부채 공개",
+      "summary": "베네수엘라 정부가 역사적인 부채 재조정 협상을 앞두고 약 2375억 달러에 달하는 거대한 공공부채 규모를 전격 공개했습니다. 이는 경제 위기 속에서 국가 채무를 정리하고 국제 금융 시장에 복귀하기 위한 수순으로 풀이됩니다.",
+      "why_it_matters": "남미 최대 경제 리스크 중 하나인 베네수엘라의 부채 문제 해결 여부가 글로벌 원자재 및 금융 시장에 상당한 영향을 미칠 수 있습니다.",
+      "sources": [
+        {
+          "name": "Google News",
+          "title": "Venezuela unveils $240bn debt pile ahead of historic restructuring - Financial Times",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTGZDS2s5a3NJakp5c2FHbUpSaS1ObHVfaHNkUm84RGdlLUNadURvNGl3LXdtamRNak5Yd0IyXzlRVUFBSHh6Q2I4TU9taTJ3Z1FuemdSV0VXNHBLT0JFeHEzUWZCTmx2UHJHV2g3TzNZbnBObXJiSUx0Q0t6UFFLcmxZV3M?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "분쟁/안보",
+      "region": "중동",
+      "title": "예멘 후티 반군, 사우디 리야드 고층 빌딩 드론 공격… 11명 부상",
+      "short_title": "사우디 리야드 피습",
+      "summary": "사우디아라비아 수도 리야드의 고층 빌딩이 예멘의 친이란 후티 반군의 소행으로 추정되는 드론 공격을 받아 11명이 부상을 입었습니다. 사우디 당국과 후티 반군 간의 공방이 다시 격화되는 양상을 보이고 있습니다.",
+      "why_it_matters": "중동 지역의 지정학적 긴장이 고조되면서 글로벌 에너지 안보와 역내 안정성에 다시금 적신호가 켜졌습니다.",
+      "sources": [
+        {
+          "name": "NYT",
+          "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
+          "link": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html"
+        },
+        {
+          "name": "Google News",
+          "title": "11 injured in Houthi drone attack on Riyadh tower, Saudi civil defence says - Al Jazeera",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3JsaU96a05ySk9rVHZIazNjQmt6Z2ZCZF9nRWFSVHVqa0s1LVhhRXhVc1VSMjNfWHhQTVZyZU9GZEtsZHRRVU5yVGVUYmVwZkRDNC1iSmYyWDc0UTdhV2pOenhuWDFkQ0ZWWkhwcTFoN2tsU3JjcllUWWJkcDBvUHU4MTAzSi0zX05oM0NLQVpua1VFNmJfcWE3cmh1al82V29SdDhCSkc4d9IBrwFBVV95cUxPQ1M5eHo1Rk9NaE5DM2hNbGF1akUxczVaekNKRWRUN3JxZ0ZJd05TYno2b2o2bVU0ZWJxWE5GWE5kT19lRHR6Z3k0TVpkaXFuY2dBMXNmaFE2YWpubno0VGZFUFlEbEJqY2NKODVWX09BVUpEUGZTXzRrY3RZWi1YUFdtaUN2amFOSm1sNXJRRzA3TW84Sk0wcUJYN1NCSEpKbV9ZZk8zNUtZSzJVdjFV?oc=5"
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "category": "분쟁/안보",
+      "region": "유럽",
+      "title": "우크라이나, 리바이어던 확장… 리비아항 러시아 군함 타격",
+      "short_title": "우크라이나, 리비아 타격",
+      "summary": "우크라이나가 북아프리카 리비아 항구에 정박 중이던 러시아 군함을 드론 등으로 타격하며 전쟁 양상을 아프리카 지역으로까지 확전시켰습니다. 러시아는 이에 대해 강력한 보복을 다짐하고 있습니다.",
+      "why_it_matters": "러시아와 우크라이나 간의 분쟁이 유럽 국경을 넘어 제3국 영해와 글로벌 공급망까지 위협하는 양상으로 번지고 있음을 보여줍니다.",
+      "sources": [
         {
           "name": "BBC",
           "title": "What strike on Russian ship in Libya says about spread of Ukraine war",
@@ -233,153 +266,34 @@
         },
         {
           "name": "The Guardian",
-          "title": "Ukraine confirms it used naval drones to strike two Russian ships off Libya",
-          "link": "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya"
-        },
-        {
-          "name": "The Guardian",
-          "title": "Italy expresses concern to Ukraine over Libya ship attacks – Europe live",
+          "title": "Italy expresses concern to Ukraine over Libya ship attacks – as it happened",
           "link": "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates"
         },
         {
           "name": "Al Jazeera",
-          "title": "Could Russia-Ukraine war threaten Libya’s fragile reunification process?",
-          "link": "https://www.aljazeera.com/news-analysis/2026/11/24/could-russia-ukraine-war-threaten-libyas-fragile-reunification-process?traffic_source=rss"
+          "title": "Is Libya a new front in the Ukraine war?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/11/24/is-libya-a-new-front-in-the-ukraine-war?traffic_source=rss"
         },
         {
           "name": "Al Jazeera",
-          "title": "Russia-Ukraine war live: Kyiv says attacks on ships off Libya self-defence",
-          "link": "https://www.aljazeera.com/news/liveblog/2026/11/24/russia-ukraine-war-live-kyiv-says-attack-on-ships-off-libya-self-delfence?traffic_source=rss"
-        },
-        {
-          "name": "Al Jazeera",
-          "title": "‘We’ll keep sinking Russian ships’: Ukraine challenges Putin’s global reach",
-          "link": "https://www.aljazeera.com/news/2026/11/24/can-ukraine-disrupt-russias-operations-in-africa?traffic_source=rss"
+          "title": "After Libya, where will Ukraine strike Russia next?",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/after-libya-where-will-ukraine-strike-russia-next?traffic_source=rss"
         },
         {
           "name": "NPR",
           "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
           "link": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns"
-        },
-        {
-          "name": "Google News",
-          "title": "‘We’ll keep sinking Russian ships’: Ukraine challenges Putin’s global reach - Al Jazeera",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPU1M4aVFTYm8wQUVFVnZORlp4X0psUWZrTE1NYWdrSkpXSEphSDNBZmw4ZlVRNDJqODdHWXFtRV9manBUeFFIeTB4VVNPbE8wUmRfeXMxclE2dGdwZWgydEhqQV95azhEaWRyU0VqUjgtUzcydU04bmFtQVFDTjVvQ01FMlRDN0RNSDFXZU5QeVRFTHZ10gGaAUFVX3lxTE9GamxQamdqZWQ0T0dUZ1VMOS1tRnBhaDFiMUtWTWNMZVJoeVh2dl83Y1h4amxzNFF3SUZ4WFNxMkdKVlpQeEpDa2RzU1dIZEs4M045d2FHdnZuX0JXdnRhVU5SWlRWWVNOZFJrVExUeXpET1NuUEVXTzhYT2dWdklGWW5jTldVQU9iSkprSTF6anNIQ2FwVTFZamc?oc=5"
-        }
-      ]
-    },
-    {
-      "rank": 3,
-      "category": "분쟁/안보",
-      "region": "글로벌",
-      "title": "\"러, 우주 핵탄두 위성 발사 준비\"… 나토 긴급 대응",
-      "short_title": "러 우주 핵위성 논란",
-      "summary": "러시아가 수 주 내 핵탄두를 탑재한 위성을 우주 궤도로 발사할 계획이라는 보도가 나오자 마르크 뤼터 나토 사무총장이 철저한 방위 태세를 공언했습니다. 대기권 밖 핵무기 배치는 글로벌 통신·관측 위성망을 일거에 마비시킬 수 있다는 우려를 부르고 있습니다.",
-      "why_it_matters": "우주 공간의 군사화와 핵무기 배치는 기존 국제 안보 규범을 무너뜨리고 전 세계 인공위성 인프라 전체를 위협할 수 있습니다.",
-      "sources": [
-        {
-          "name": "BBC",
-          "title": "Nato chief vows defence against space threat after Russian nuclear satellite reports",
-          "link": "https://www.bbc.co.uk/news/articles/c9x2er1ry2mzo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "DW",
-          "title": "What happens if a nuclear weapon explodes in space?",
-          "link": "https://www.dw.com/en/what-happens-if-a-nuclear-weapon-explodes-in-space/a-80025827?maca=en-rss-en-world-4025-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 4,
-      "category": "경제/금융",
-      "region": "중동",
-      "title": "호르무즈 유조선 기뢰 피격… 원유 운송 40% 급감",
-      "short_title": "호르무즈 해협 위기",
-      "summary": "미 해군의 호위 작전에도 불구하고 호르무즈 해협에서 유조선 3척이 해상 기뢰에 피격돼 화재가 발생하며 원유 수송량이 40% 급감했습니다. 미국 재무부가 대이란 제재를 강화하는 가운데 사우디 금융가에 후티 반군의 드론 공격까지 발생해 중동 긴장이 최고조에 달했습니다.",
-      "why_it_matters": "세계 원유 수송의 핵심 통로가 마비되면서 국제 에너지 가격 급등과 공급망 차질이 가시화되고 있습니다.",
-      "sources": [
-        {
-          "name": "Al Jazeera",
-          "title": "11 injured in Houthi ‘terrorist’ attack on tower in Riyadh",
-          "link": "https://www.aljazeera.com/news/2026/11/24/saudi-led-coalition-condemns-terrorist-attack-on-tower-in-riyadh?traffic_source=rss"
-        },
-        {
-          "name": "Al Jazeera",
-          "title": "Hormuz oil traffic is down 40 percent: Are Iran’s tanker attacks working?",
-          "link": "https://www.aljazeera.com/news/2026/11/24/hormuz-oil-traffic-is-down-40-percent-are-irans-tanker-attacks-working?traffic_source=rss"
-        },
-        {
-          "name": "Al Jazeera",
-          "title": "UK sanctions Yemen’s Houthi group and four of its top officials",
-          "link": "https://www.aljazeera.com/news/2026/11/24/uk-sanctions-yemens-houthi-group-four-senior-officials?traffic_source=rss"
-        },
-        {
-          "name": "CNBC",
-          "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions",
-          "link": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html"
-        }
-      ]
-    },
-    {
-      "rank": 5,
-      "category": "정치/외교",
-      "region": "동아시아",
-      "title": "시진핑 숙청 칼날 상하이로… 천지닝 정치국원 조사",
-      "short_title": "시진핑, 천지닝 조사",
-      "summary": "중국 차기 지도부 유력 후보로 거론되던 천지닝 상하이시 당서기가 부패 혐의로 당국의 조사를 받게 되었습니다. 천 서기는 지난해 이후 낙마한 네 번째 공산당 정치국원으로, 시진핑 주석의 고위직 숙청 작업이 한층 거세지고 있습니다.",
-      "why_it_matters": "중국 경제 수도 상하이의 최고 책임자이자 핵심 엘리트의 낙마는 중국 지도부의 권력 지형 변화와 정책 불확실성을 시사합니다.",
-      "sources": [
-        {
-          "name": "NYT",
-          "title": "China Investigates Chen Jining, Shanghai’s Party Leader, as Xi’s Purges Expand",
-          "link": "https://www.nytimes.com/2026/11/24/world/asia/shanghai-party-leader-investigation-china-xi.html"
-        },
-        {
-          "name": "Al Jazeera",
-          "title": "China’s probes Shanghai party chief Chen Jining over corruption",
-          "link": "https://www.aljazeera.com/news/2026/11/24/xis-anti-corruption-campaign-targets-shanghai-party-chief-chen-jining?traffic_source=rss"
-        },
-        {
-          "name": "Google News",
-          "title": "China Probes Fourth Politburo Member in Major Leadership Shakeup - Bloomberg",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNX2xoU1dSSzBEeGVMMi1fVTdHRUticVJQR2Rod2F4aTNfYldpVkQ0XzA1SkNja0d2V1VENGlDM3h2Wnl1UnJzU3JKczMxY0xtNVdYR3VETDV3Z1FyQWpLMnhlVnExa0t0SWpTWkNXZnMyX19nV0hUUjNEWlEyc2hPY3NmXzZuMzVfenM5RWtNeUZSYjBsS2JUZWpaSV9GSFAtWTN1Z0dDaHhqUGkyQ01YdQ?oc=5"
         }
       ]
     },
     {
       "rank": 6,
-      "category": "기후/환경",
-      "region": "글로벌",
-      "title": "제31차 유엔기후총회, 사상 최장 협의 끝 합의 결렬",
-      "short_title": "COP31 기후총회 결렬",
-      "summary": "예정된 일정을 이틀 넘겨 역대 최장 협의를 진행한 제31차 유엔기후변화협약 당사국총회(COP31)가 최종 합의에 실패한 채 폐막했습니다. 기후 피해 보전과 에너지 전환 재정 지원을 두고 선진국과 개발도상국 간의 대립이 끝내 좁혀지지 않았습니다.",
-      "why_it_matters": "전 지구적 다자주의 기후 협력 체계가 동력을 잃으면서 온실가스 감축 목표 달성에 심각한 경고등이 켜졌습니다.",
-      "sources": [
-        {
-          "name": "NYT",
-          "title": "COP31 Climate Talks Broke Down. Now What?",
-          "link": "https://www.nytimes.com/2026/11/23/climate/cop31-collapse-what-next.html"
-        },
-        {
-          "name": "NPR",
-          "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-          "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
-        },
-        {
-          "name": "DW",
-          "title": "Uganda minister at COP31: 'We need a just transition'",
-          "link": "https://www.dw.com/en/uganda-minister-at-cop31-we-need-a-just-transition/a-79997209?maca=en-rss-en-world-4025-rdf"
-        }
-      ]
-    },
-    {
-      "rank": 7,
-      "category": "분쟁/안보",
+      "category": "정치/외교",
       "region": "동아시아",
-      "title": "러 군용기 KADIZ 근접 위협… 울릉도 주민 대피령",
-      "short_title": "러 군용기 울릉도 위협",
-      "summary": "러시아 군용기 여러 대가 동해 울릉도 인근 한국 방공식별구역(KADIZ)에 진입해 영공에 근접 비행하면서 섬 주민들에게 대피령이 발령됐습니다. 나토 동부 전선에서의 미사일 낙탄 사고와 더불어 아시아 동맹국을 겨냥한 러시아의 무력시위가 격화되고 있습니다.",
-      "why_it_matters": "한반도 주변 영공 안보에 직접적인 위협이 발생했을 뿐 아니라 러시아의 군사적 도발이 유럽과 아시아 양방향으로 전개되고 있음을 보여줍니다.",
+      "title": "러시아 군용기 독도 인근 방공구역 접근… 한국, 주민 대피령",
+      "short_title": "러시아 군용기 접근",
+      "summary": "울릉도 인근 한국의 방공식별구역(KADIZ)에 러시아 군용기들이 접근하자, 한국 당국이 인근 섬 주민들에게 긴급 대피령을 내리는 등 군사적 긴장이 고조되었습니다.",
+      "why_it_matters": "한반도 주변 동북아시아 지역에서 러시아와 중국 등 권위주의 진영의 군사적 움직임이 안보 불안을 가중시키고 있음을 시사합니다.",
       "sources": [
         {
           "name": "The Guardian",
@@ -387,92 +301,103 @@
           "link": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-to-take-shelter-after-russian-military-aircraft-approach"
         },
         {
-          "name": "NPR",
-          "title": "Fighting between Russia and Ukraine has expanded geographically, drawing concerns",
-          "link": "https://www.npr.org/2026/11/24/nx-s1-6051564/fighting-between-russia-and-ukraine-has-expanded-geographically-drawing-concerns"
+          "name": "Al Jazeera",
+          "title": "Russian jets spark air raid alert in South Korea",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/24/aje-onl-nf_russian-jets-spark-air-raid-alert-in-south-korea-241126?traffic_source=rss"
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "category": "분쟁/안보",
+      "region": "남미",
+      "title": "콜롬비아 카르타헨나 슈퍼마켓서 무장 괴한 인질극 및 차량폭탄 테러",
+      "short_title": "콜롬비아 인질극·폭탄",
+      "summary": "콜롬비아의 주요 관광 도시 카르타헨나의 한 슈퍼마켓에서 무장 괴한들이 인질극을 벌였으며, 콜롬비아 전역에서는 정부 시설 등을 겨냥한 연쇄 차량폭탄 테러로 수십 명의 사상자가 발생했습니다.",
+      "why_it_matters": "마약 카르텔 및 반정부 반군 세력의 준동으로 인해 남미 국가들의 치안과 정국 불안이 심각한 수준에 달했음을 보여줍니다.",
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Car bomb tears through Colombian city wounding more than 20",
+          "link": "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "NPR",
-          "title": "Russian incursions into NATO territory are increasing",
-          "link": "https://www.npr.org/2026/11/23/nx-s1-6051013/russian-incursions-into-nato-territory-are-increasing"
+          "name": "The Guardian",
+          "title": "Armed men hold hostages at supermarket in top Colombian tourist destination",
+          "link": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket"
+        },
+        {
+          "name": "NYT",
+          "title": "Drone Attack Hits Colombian City as Unmanned Explosives Transform Conflict",
+          "link": "https://www.nytimes.com/2026/11/23/world/americas/colombia-drone-attack-cucuta.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "title": "Colombian president blames ex-FARC rebels for car bomb blast",
+          "link": "https://www.aljazeera.com/news/2026/11/24/colombian-president-blames-ex-farc-rebels-for-car-bomb-blast?traffic_source=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "title": "Hostage situation reported in Colombia as armed men flee into supermarket",
+          "link": "https://www.aljazeera.com/news/2026/11/24/hostage-situation-reported-in-colombia-as-armed-men-flee-into-supermarket?traffic_source=rss"
         },
         {
           "name": "Google News",
-          "title": "Russian Warplanes Trigger Alarm Among U.S. Partners in Asia - WSJ",
-          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOThCM0hld0RLVUt5VXhQNmFGeUJfR0NsQVlSdVlFQXFWSzlDYk5YUUZuSDNyYzlyaHN0Yk0wQXJEYTkxaHcxNV9OQXBncDdrbHE3eWhQMk9YSlM2cXpUWGJhaXEzdGxQb3R0amJvalgwY25nT0VqYVBGQXFxNzZFUmEzSVMweXRmczN0bmN4b0lxY0x2b2g1Ug?oc=5"
+          "title": "Hostages held in Cartagena, Colombia, supermarket after failed armored car hijacking - Reuters",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUklaemoxV1Blc3lnelpxZHVwbmdXYUZBVHg2M1dBUzhwcU1PNVp2STNsbWlQMU5POEpHNmFabWtzNjMyTGRwR3dVRURmbDJITXdKZHJsbGdQVkQwZ1d1dmM3cVc3RGZsUGxGbDVmeDVRQVJMZ0c2b3ZNcTdyQ08ycHlSMlNnT3dYMUJzWXZ1VXh0LWJBdkFpeDF5TjRyMk40Y0FHZDdaSWoxQjFIUGNEYlJQWEZKZl9BQ04tTnl1WXl1cElH?oc=5"
         }
       ]
     },
     {
       "rank": 8,
-      "category": "정치/외교",
-      "region": "미국",
-      "title": "미 민주당, 50년 만에 최대 격차로 하원 탈환 승리",
-      "short_title": "미 민주당 하원 탈환",
-      "summary": "미국 중간선거 개표 결과 민주당이 최대 49석을 뒤집으며 50년 만에 가장 큰 의석 차이로 연방 하원 다수당 지위를 되찾았습니다. 선거 직후 미 소비자 신뢰지수가 반등하는 등 긍정적 반응이 나타났으나, 민주당 내 지도부 재편 경쟁도 본격화하고 있습니다.",
-      "why_it_matters": "트럼프 행정부의 독주를 제어할 강력한 견제 장치가 의회 내에 마련되면서 미국의 입법 및 외교·통상 정책 기조에 변화가 예상됩니다.",
+      "category": "사회",
+      "region": "글로벌",
+      "title": "전 세계 지뢰 사상자 5년 내 최악… 미얀마·시리아가 주원인",
+      "short_title": "지뢰 사상자 급증",
+      "summary": "국제 지뢰 모니터 보고서에 따르면 전 세계 지뢰 및 잔류 폭발물로 인한 사상자가 5년 만에 최고치를 기록했으며, 전체 사상자의 대다수가 미얀마와 시리아 등 분쟁 지역에 집중된 것으로 나타났습니다.",
+      "why_it_matters": "내전과 분쟁이 종식된 이후에도 민간인, 특히 어린이들에게 치명적인 피해를 주는 비인도적 무기의 위험성이 여전히 심각하다는 경고입니다.",
       "sources": [
         {
-          "name": "NPR",
-          "title": "Democrats win House by largest margin in 50 years. And, COP31 ends with no deal",
-          "link": "https://www.npr.org/2026/11/23/g-s1-155021/up-first-newsletter-midterms-house-ai-stocks-poland-nato-cop31"
+          "name": "BBC",
+          "title": "Land mine casualties soar in Syria, two years after war",
+          "link": "https://www.bbc.co.uk/news/articles/c893rl37ywdgo?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "CNBC",
-          "title": "Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist",
-          "link": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html"
-        },
-        {
-          "name": "Google News",
-          "title": "Senate leadership vote tests newly elected Democrats' promise of change - PBS",
-          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOaldBdGIyYXpMbXdMYWdWY0VDMnYtMnBkaURTWkpwYmpxX1hKdkpSeUJkSkNrbHp2V0lxT2ppT3d0REtvVktLQnJBaTEzTWk5Q3JmS3hGX1g2d1JObjVXUkxoT0l4Y0R6WGdOZnhPdlpjTGpTbzUtZ09MeGpFZ3diX3ByMXB5S0tOX3d0RlYyZndnRUdPRHQxdjdUTTRTNV9qcWtVMXMzYWRfbWRf0gGyAUFVX3lxTE5xS1g4dUlBOW9LQlZOa3B2aG80ZFNrT296dGdQcHB4VXlBeEV3MThacXBlU25Idm1DaFR2RjVsS2oyQk1jSVh2VW0yT1VTcEZTSXpnRW9sdm50QVJJWW84Ujd2YTRjVWpjS1d5c2d1VWU2XzZKVldLQ19CanZMam8wZFRlY1pvcDlORjV3Zjd3X1VNLXF0MldYSlRkcHhGbHQyTGVFd1ZpcVZwVXhKYUxxV3c?oc=5"
+          "name": "Al Jazeera",
+          "title": "Global landmine casualties hit a five-year high, driven by Myanmar, Syria",
+          "link": "https://www.aljazeera.com/news/2026/11/24/global-landmine-casualties-hit-a-five-year-high-driven-by-myanmar-syria?traffic_source=rss"
         }
       ]
     },
     {
       "rank": 9,
       "category": "정치/외교",
-      "region": "동아시아",
-      "title": "다카이치 일본 총리, 트럼프에 반기 들고 ICC 지지",
-      "short_title": "日 다카이치 ICC 지지",
-      "summary": "다카이치 사나에 일본 총리가 국제형사재판소(ICC) 소장을 직접 만나 재정적 지원을 대폭 강화하겠다고 밝혔습니다. 이는 국제기구를 무력화하려는 트럼프 미 행정부의 입장과 정면으로 대치되는 이례적인 독자 행보입니다.",
-      "why_it_matters": "미국의 핵심 동맹인 일본이 국제 규범과 다자주의 체제를 수호하기 위해 미국과의 외교적 균열을 감수했다는 점에서 주목됩니다.",
+      "region": "아시아",
+      "title": "말레이시아, 미얀마 난민 강제 송환 방침… 인권 단체 반발",
+      "short_title": "말레이시아 난민 송환",
+      "summary": "말레이시아 정부가 로힝야족 등 수천 명의 미얀마 난민을 본국으로 송환하겠다고 밝혔습니다. 이는 국제사법재판소(ICJ)가 미얀마 군부의 로힝야족 학살을 인정한 직후에 나온 조치여서 논란이 되고 있습니다.",
+      "why_it_matters": "동남아시아 국가들이 미얀마 군부의 인권 탄압과 학살 사실을 인지하면서도 자국 내 난민 문제로 인해 강제 송환을 강행하면서 인권 침해 우려가 커지고 있습니다.",
       "sources": [
         {
-          "name": "NYT",
-          "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court",
-          "link": "https://www.nytimes.com/2026/11/24/world/asia/japan-international-criminal-court-takaichi-trump.html"
-        },
-        {
-          "name": "Google News",
-          "title": "Japan’s Leader, in Break with U.S., Defends International Criminal Court - The New York Times",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPX2pwdGlHY05MZ1FBb2gxNGt6TlI2ZGpjX2tnX0ozSlMzUDZBWkNEbDVRMmZjX1lQZVlweG5nR01fN0FkNTJIUFNoQ2NQT3VxRjNKMURObTlCcktfX3hQRmQtT2R0bW1pejFjTHd4VHR3ZGMydUJBTWlfTWdzcUwwNmM5YVdGc1U4bjlyMHZPT0pvd0lrcHBuNDhmM3BkWEJtWHc?oc=5"
+          "name": "The Guardian",
+          "title": "Malaysia to send thousands of migrants back to Myanmar as PM acknowledges junta’s ‘atrocities’",
+          "link": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar"
         }
       ]
     },
     {
       "rank": 10,
-      "category": "분쟁/안보",
-      "region": "중동",
-      "title": "가자 하마스 치안수장 공습 사망… 뇌수막염 유행 경보",
-      "short_title": "가자 치안수장 사망",
-      "summary": "이스라엘군의 정밀 공습으로 하마스 내부 보안 책임자인 나임 아부 나헬을 비롯해 팔레스타인인 7명이 사망했습니다. 동시에 가자지구 보건 당국은 지난달 뇌수막염 감염 사례가 평소의 8배가 넘는 272건으로 폭증하자 전염병 유행 경보를 선포했습니다.",
-      "why_it_matters": "이스라엘의 수뇌부 참수 작전이 지속되는 가운데 심각한 보건 위기까지 겹치면서 가자지구 내 민간인 참상이 한층 심화되고 있습니다.",
+      "category": "기후/환경",
+      "region": "유럽",
+      "title": "노르웨이 스발바르 마지막 탄광 폐쇄… 북극의 상징적 변화",
+      "short_title": "노르웨이 마지막 탄광",
+      "summary": "노르웨이가 북극항로의 스발바르 제도에 남아있던 마지막 석탄 광산을 공식 폐쇄하며 한 세기가 넘는 북극 채굴 역사의 막을 내렸습니다.",
+      "why_it_matters": "기후변화 대응과 탈석탄 기조 속에서 과거 자원 채굴 중심이던 북극 지역이 관광 및 지정학적 요충지로 급격히 재편되고 있음을 보여줍니다.",
       "sources": [
         {
-          "name": "BBC",
-          "title": "Israeli air strike kills Hamas internal security chief in Gaza",
-          "link": "https://www.bbc.co.uk/news/articles/c6rrg7ggq190o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "The Guardian",
-          "title": "Gaza issues meningitis epidemic alert after steep rise in cases",
-          "link": "https://www.theguardian.com/world/2026/nov/24/gaza-meningitis-epidemic-alert"
-        },
-        {
-          "name": "Al Jazeera",
-          "title": "Israeli air strike kills senior Hamas security official in Gaza",
-          "link": "https://www.aljazeera.com/news/2026/11/24/israeli-air-strike-kills-senior-hamas-military-official-in-gaza?traffic_source=rss"
+          "name": "NYT",
+          "title": "Norway Has Closed Its Last Coal Mine, Ending a Way of Life in the Arctic",
+          "link": "https://www.nytimes.com/2026/11/24/world/europe/norway-svalbard-arctic-last-coal-mine.html"
         }
       ]
     }
