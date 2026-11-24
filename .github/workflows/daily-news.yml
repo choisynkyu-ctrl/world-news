@@ -2,8 +2,8 @@ name: Daily World News
 
 on:
   schedule:
-    # 매일 06:45 KST (21:45 UTC). GitHub 스케줄은 수 분~수십 분 늦게 시작될 수 있어 미리 실행.
-    - cron: "45 21 * * *"
+    # 매일 06:20 KST (21:20 UTC). GitHub 스케줄 지연 + Gemini 무료 등급 혼잡 시 재시도 시간을 고려해 미리 실행.
+    - cron: "20 21 * * *"
   workflow_dispatch: {}   # Actions 탭에서 수동 실행
 
 permissions:
@@ -16,13 +16,13 @@ concurrency:
 jobs:
   run:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45
     env:
       DASHBOARD_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
           cache: pip

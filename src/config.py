@@ -10,7 +10,7 @@ DATA_DIR = DOCS / "data"          # 날짜별 JSON
 ARCHIVE_DIR = DOCS / "archive"    # 날짜별 HTML
 
 # Gemini 무료 등급 모델. 앞에서부터 시도하고, 없어지거나 실패하면 다음 모델 사용
-MODELS = ["gemini-3.8-flash", "gemini-flash-latest", "gemini-3.5-flash-lite"]
+MODELS = ["gemini-3.8-flash", "gemini-3.5-flash-lite", "gemini-flash-latest", "gemini-2.5-flash"]
 
 # 최근 몇 시간 이내 기사만 후보로 사용
 LOOKBACK_HOURS = 30

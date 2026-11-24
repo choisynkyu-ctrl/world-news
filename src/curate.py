@@ -50,27 +50,29 @@ def _format_candidates(items: list[dict]) -> str:
     return "\n".join(lines)
 
 
+class Busy(Exception):
+    """일시적 혼잡(429/5xx) — 나중에 다시 시도할 가치가 있음."""
+
+
 def _call(model: str, prompt: str) -> dict:
-    """Gemini 호출. 일시 오류(429/5xx)는 재시도, 모델 없음(404)은 예외로 올려 다음 모델을 시도."""
+    """Gemini 1회 호출. 혼잡이면 Busy, 그 밖의 오류(모델 없음 등)는 RuntimeError."""
     body = {
         "contents": [{"role": "user", "parts": [{"text": prompt}]}],
         "generationConfig": {"responseMimeType": "application/json", "temperature": 0.3},
     }
     headers = {"x-goog-api-key": os.environ["GEMINI_API_KEY"]}
-    for attempt in range(4):
-        r = requests.post(API.format(model=model), headers=headers, json=body, timeout=180)
-        if r.status_code == 200:
-            data = r.json()
-            text = "".join(p.get("text", "") for p in data["candidates"][0]["content"]["parts"])
-            print(f"[curate] {model} 사용, tokens={data.get('usageMetadata', {})}")
-            return json.loads(text)
-        if r.status_code in (429, 500, 503) and attempt < 3:
-            wait = 20 * (attempt + 1)
-            print(f"[curate] {model} {r.status_code}, {wait}초 후 재시도")
-            time.sleep(wait)
-            continue
-        raise RuntimeError(f"Gemini {model} 오류 {r.status_code}: {r.text[:500]}")
-    raise RuntimeError("unreachable")
+    try:
+        r = requests.post(API.format(model=model), headers=headers, json=body, timeout=300)
+    except requests.RequestException as e:
+        raise Busy(str(e))
+    if r.status_code == 200:
+        data = r.json()
+        text = "".join(p.get("text", "") for p in data["candidates"][0]["content"]["parts"])
+        print(f"[curate] {model} 사용, tokens={data.get('usageMetadata', {})}")
+        return json.loads(text)
+    if r.status_code in (429, 500, 502, 503, 504):
+        raise Busy(f"{r.status_code}")
+    raise RuntimeError(f"오류 {r.status_code}: {r.text[:300]}")
 
 
 def _validate(data: dict) -> None:
@@ -90,19 +92,30 @@ def curate(items: list[dict], date_label: str) -> dict:
         categories=", ".join(CATEGORIES), date=date_label,
         n=len(items), candidates=_format_candidates(items),
     )
-    errors = []
+    # 무료 등급은 혼잡 시 503을 자주 준다 → 모델을 번갈아 가며 최대 약 20분간 재시도
+    models = list(MODELS)
+    errors: list[str] = []
     data = None
-    for model in MODELS:  # 첫 모델이 없어졌거나 실패하면 다음 모델로
-        try:
-            data = _call(model, prompt)
-            _validate(data)
-            break
-        except Exception as e:
-            print(f"[curate] {model} 실패: {e}")
-            errors.append(f"{model}: {e}")
+    for rnd in range(8):
+        for model in list(models):
+            try:
+                data = _call(model, prompt)
+                _validate(data)
+                break
+            except Busy as e:
+                print(f"[curate] {model} 혼잡({e})")
+            except Exception as e:  # 모델 없음·응답 형식 오류 → 이 모델은 제외
+                print(f"[curate] {model} 실패: {e}")
+                errors.append(f"{model}: {e}")
+                models.remove(model)
             data = None
+        if data is not None or not models:
+            break
+        wait = min(30 * (rnd + 1), 240)
+        print(f"[curate] 모든 모델 혼잡, {wait}초 후 다시 시도 ({rnd + 1}/8)")
+        time.sleep(wait)
     if data is None:
-        raise RuntimeError("모든 Gemini 모델 실패:\n" + "\n".join(errors))
+        raise RuntimeError("Gemini 요약 실패 (혼잡 또는 오류):\n" + "\n".join(errors))
 
     by_id = {it["id"]: it for it in items}
     stories = sorted(data["stories"], key=lambda s: s["rank"])[:10]
