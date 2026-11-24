@@ -69,6 +69,9 @@ def _date_label(d: date) -> str:
 
 def _card(s: dict) -> str:
     color = CAT_COLORS.get(s["category"], "#6b7280")
+    # 같은 언론사는 하나로, 최대 6개
+    uniq = list({src["name"]: src for src in reversed(s.get("sources", []))}.values())[::-1][:6]
+    s = {**s, "sources": uniq}
     sources = "".join(
         f'<a href="{escape(src["link"])}" target="_blank" rel="noopener" title="{escape(src["title"])}">{escape(src["name"])}</a>'
         for src in s.get("sources", [])
