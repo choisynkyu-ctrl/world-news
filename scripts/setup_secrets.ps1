@@ -1,5 +1,6 @@
 ﻿# GitHub Secrets 한 번에 등록 + 카카오 토큰 발급
 # 실행: powershell -ExecutionPolicy Bypass -File scripts\setup_secrets.ps1
+param([string]$RestKey)
 $ErrorActionPreference = "Stop"
 $gh = "C:\Program Files\GitHub CLI\gh.exe"
 $RedirectUri = "https://localhost:5000"
@@ -22,9 +23,9 @@ $ak = Read-Secret "1) Gemini API 키 (AIza...)"
 Set-Secret "GEMINI_API_KEY" $ak
 
 # 2) Kakao 키
-$rk = Read-Secret "2) 카카오 REST API 키"
+$rk = if ($RestKey) { $RestKey } else { Read-Secret "2) 카카오 REST API 키" }
 Set-Secret "KAKAO_REST_API_KEY" $rk
-$cs = Read-Secret "3) 카카오 Client Secret (없으면 Enter)"
+$cs = Read-Secret "3) 카카오 클라이언트 시크릿 코드 (REST API 키 수정 화면의 '카카오 로그인' 코드)"
 if ($cs) { Set-Secret "KAKAO_CLIENT_SECRET" $cs }
 
 # 3) 카카오 로그인 → refresh token
