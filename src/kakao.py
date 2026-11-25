@@ -56,16 +56,12 @@ def _text_template(text: str, url: str) -> dict:
     }
 
 
-def build_messages(data: dict, d: date) -> list[str]:
-    stories = data["stories"]
-    head = f"🌍 {d.month}/{d.day} 세계 주요 뉴스 TOP 10"
-    lines1 = [head, ""] + [f"{s['rank']}. {s['short_title']}" for s in stories[:5]]
-    lines2 = [f"{s['rank']}. {s['short_title']}" for s in stories[5:10]]
-    return ["\n".join(lines1), "\n".join(lines2)]
+def build_message(data: dict, d: date) -> str:
+    """제목 한 줄만 보낸다. 내용은 '대시보드 열기' 버튼으로 확인."""
+    return f"{d.month}/{d.day} 세계 주요 뉴스 Top 10"
 
 
 def notify(data: dict, d: date, dashboard_url: str) -> None:
     token = refresh_access_token()
-    for text in build_messages(data, d):
-        _send(token, _text_template(text, dashboard_url))
+    _send(token, _text_template(build_message(data, d), dashboard_url))
     print("[kakao] 전송 완료")

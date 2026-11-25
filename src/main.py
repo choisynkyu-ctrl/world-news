@@ -18,6 +18,7 @@ def today_kst() -> date:
 def cmd_build() -> None:
     from .collect import collect
     from .curate import curate
+    from .digest import digest
     from .render import save_and_render
 
     d = today_kst()
@@ -25,6 +26,7 @@ def cmd_build() -> None:
     if len(items) < 20:
         raise SystemExit(f"후보 기사가 너무 적습니다 ({len(items)}건). RSS 소스를 확인하세요.")
     data = curate(items, d.isoformat())
+    data["digest"] = digest(data, d)
     save_and_render(data, d)
 
 

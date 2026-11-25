@@ -29,6 +29,13 @@ header{margin-bottom:24px}
 .eyebrow{font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
 h1{font-size:30px;line-height:1.25;margin:6px 0 10px;letter-spacing:-.02em}
 .lead{font-size:17px;color:var(--muted);margin:0;max-width:760px}
+.digest{margin:16px 0 0;display:grid;gap:10px;max-width:860px}
+.digest .row{display:grid;grid-template-columns:64px 1fr;gap:12px;align-items:baseline}
+.digest .lbl{font-size:12px;font-weight:700;text-align:center;background:var(--chip);border-radius:6px;padding:3px 0}
+.digest p{margin:0;font-size:15px}
+.digest .row:first-child p{font-size:17px;font-weight:600}
+.digest .span{font-size:12px;color:var(--muted);margin-left:6px;white-space:nowrap}
+@media (max-width:520px){.digest .row{grid-template-columns:1fr;gap:4px}.digest .lbl{justify-self:start;padding:2px 8px}}
 nav.days{display:flex;gap:8px;flex-wrap:wrap;margin-top:16px}
 nav.days a{font-size:13px;color:var(--muted);text-decoration:none;border:1px solid var(--line);border-radius:999px;padding:4px 12px}
 nav.days a:hover{color:var(--text);border-color:var(--muted)}
@@ -78,12 +85,29 @@ def _card(s: dict) -> str:
     )
     cls = "card top" if s["rank"] == 1 else "card"
     return f"""<article class="{cls}" data-cat="{escape(s['category'])}">
-  <div class="meta"><span class="rank">{s['rank']:02d}</span><span class="cat" style="background:{color}">{escape(s['category'])}</span><span>{escape(s['region'])}</span></div>
+  <div class="meta"><span class="rank">{s['rank']:02d}</span><span class="cat" style="background:{color}">{escape(s['category'])}</span><span>{escape(s['region'])}</span>{f'<span title="이 이슈를 보도한 주요 언론사 수">주요 언론 {s["outlets"]}곳</span>' if s.get("outlets") else ''}</div>
   <h2>{escape(s['title'])}</h2>
   <p class="summary">{escape(s['summary'])}</p>
   <p class="why">{escape(s['why_it_matters'])}</p>
   <div class="sources">{sources}</div>
 </article>"""
+
+
+def _digest_html(data: dict) -> str:
+    """일간(오늘 헤드라인) · 주간 · 월간 요약. 예전 데이터처럼 주간·월간이 없으면 일간만 보인다."""
+    rows = [("일간", data.get("headline_of_day", ""), "")]
+    dg = data.get("digest") or {}
+    for key, label, span in (("weekly", "주간", 7), ("monthly", "월간", 30)):
+        if key in dg:
+            n = dg[key]["days"]
+            note = f"최근 {span}일" + (f" 중 {n}일치" if n < span else "")
+            rows.append((label, dg[key]["text"], note))
+    body = "".join(
+        f'<div class="row"><span class="lbl">{lbl}</span><p>{escape(text)}'
+        + (f'<span class="span">{note}</span>' if note else "") + "</p></div>"
+        for lbl, text, note in rows if text
+    )
+    return f'<section class="digest" aria-label="뉴스 흐름 요약">{body}</section>'
 
 
 def render_page(data: dict, d: date, root: str, all_dates: list[date]) -> str:
@@ -114,14 +138,14 @@ def render_page(data: dict, d: date, root: str, all_dates: list[date]) -> str:
 <header>
   <div class="eyebrow">World Briefing · {_date_label(d)}</div>
   <h1>오늘의 세계 주요 뉴스 TOP 10</h1>
-  <p class="lead">{escape(data['headline_of_day'])}</p>
+  {_digest_html(data)}
   {days_html}
 </header>
 <div class="filters">{filters}</div>
 <main class="grid">
 {cards}
 </main>
-<footer>BBC, Guardian, NYT, Al Jazeera, NPR, DW, CNBC, Google News RSS를 바탕으로 AI(Google Gemini)가 선정·요약했습니다. 정확한 내용은 원문을 확인하세요.</footer>
+<footer>BBC, Guardian, NYT, Al Jazeera, NPR, DW, CNBC, Google News(종합·World·Business) RSS를 바탕으로 AI(Google Gemini)가 선정·요약했습니다. 정확한 내용은 원문을 확인하세요.</footer>
 </div>
 <script>{JS}</script>
 </body>

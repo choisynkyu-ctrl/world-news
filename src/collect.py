@@ -7,7 +7,7 @@ from datetime import datetime, timedelta, timezone
 import feedparser
 import requests
 
-from .config import FEEDS, LOOKBACK_HOURS, MAX_PER_FEED
+from .config import FEEDS, LOOKBACK_HOURS, MAX_PER_FEED, OUTLET_ALIASES
 
 UA = "feedparser/6.0 daily-news-digest/1.0"  # 일부 언론(Guardian)은 브라우저 위장 UA를 차단
 _TAG = re.compile(r"<[^>]+>")
@@ -49,6 +49,14 @@ def collect() -> list[dict]:
             link = entry.get("link", "")
             if not title or not link:
                 continue
+            # Google News는 여러 매체 기사를 모은 피드 → 원래 언론사를 따로 기록
+            outlet = source
+            origin = (entry.get("source") or {}).get("title")
+            if source.startswith("Google News") and origin:
+                outlet = origin
+                if title.endswith(f" - {origin}"):
+                    title = title[: -len(f" - {origin}")]
+            outlet = OUTLET_ALIASES.get(outlet, outlet)
             pub = _published(entry)
             if pub and pub < cutoff:
                 continue
@@ -59,6 +67,7 @@ def collect() -> list[dict]:
             items.append({
                 "id": len(items),
                 "source": source,
+                "outlet": outlet,
                 "title": title,
                 "summary": _clean(entry.get("summary", ""), 300),
                 "link": link,
