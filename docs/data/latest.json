@@ -1,14 +1,14 @@
 {
-  "headline_of_day": "미국의 전방위 관세 예고와 금리 인상 공포 속에 기술주 안보 논란과 우크라이나·중동의 전황 악화가 글로벌 위기감을 고조시키고 있습니다.",
+  "headline_of_day": "미국의 대규모 대(對)중국 및 글로벌 관세 압박과 AI 반도체 수출 통제 강화 속에서 글로벌 증시와 공급망의 불확실성이 고조되고 있습니다.",
   "stories": [
     {
       "rank": 1,
-      "category": "경제/금융",
+      "category": "정치/외교",
       "region": "미국",
-      "title": "미국, 중국·EU 등 14개 교역국 상대 신규 관세 부과 발표",
-      "short_title": "미, 중국·EU 관세",
-      "summary": "미국 행정부가 불공정 무역 관행을 이유로 중국과 유럽연합(EU)을 포함한 14개 주요 교역국에 새로운 관세를 부과하겠다고 발표했습니다. 8개월간의 미 무역대표부(USTR) 조사를 거친 이번 조치는 최대 무역 상대국들을 직접 겨냥하고 있습니다. 발표 직후 글로벌 증시가 크게 흔들리는 등 세계 교역 환경에 긴장감이 고조되고 있습니다.",
-      "why_it_matters": "미국의 관세 압박이 대미 수출 의존도가 높은 한국을 비롯해 글로벌 교역 공급망 전반에 심각한 하방 압력을 가할 수 있습니다.",
+      "title": "트럼프 정부, 중국·EU 등 14개국 겨냥한 신규 관세 조치 단행",
+      "short_title": "미국 신규 관세",
+      "summary": "도널드 트럼프 미국 행정부가 중국과 유럽연합(EU) 등 14개 주요 교역 상대를 겨냥한 새로운 광범위한 관세 부과 방침을 발표했습니다. 이에 중국은 정치적 조작이라며 필요시 보복 조치에 나설 권리가 있다고 경고했습니다.",
+      "why_it_matters": "글로벌 무역 갈등이 재점화되면서 한국을 포함한 수출 주도형 국가들의 경제 및 공급망에 큰 부담으로 작용할 수 있습니다.",
       "sources": [
         {
           "name": "BBC",
@@ -21,377 +21,141 @@
           "link": "https://www.bbc.co.uk/news/videos/c3x29v11ed1xo?at_medium=RSS&at_campaign=rss"
         },
         {
+          "name": "The Guardian",
+          "title": "China reserves right to take ‘necessary measures’ after Trump’s new tariff proposals",
+          "link": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat"
+        },
+        {
           "name": "NYT",
-          "title": "Trump Administration Unveils New Tariffs for China, EU and More, Citing Unfair Practices",
-          "link": "https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html"
+          "title": "Trump’s Latest Tariffs Revive Focus on Pressuring China",
+          "link": "https://www.nytimes.com/2026/11/26/business/trump-tariffs-asia.html"
         },
         {
           "name": "Al Jazeera",
-          "title": "World reacts to Trump’s new tariffs as US stocks tumble",
-          "link": "https://www.aljazeera.com/economy/2026/11/25/world-reacts-to-trumps-new-tariffs-as-us-stocks-tumble?traffic_source=rss"
+          "title": "What will Trump’s latest tariffs mean for the world?",
+          "link": "https://www.aljazeera.com/video/inside-story/2026/11/26/what-will-trumps-latest-tariffs-mean-for-the-world?traffic_source=rss"
         },
         {
           "name": "CNBC",
-          "title": "U.S. proposes new tariffs on 14 trading partners, including China and the EU",
-          "link": "https://www.cnbc.com/2026/11/25/us-tariffs-trump-section-301.html"
+          "title": "U.S. tariff-hike threats pile pressure on partners to sign trade deals",
+          "link": "https://www.cnbc.com/2026/11/26/us-tariffs-hike-trade-agreement.html"
         },
         {
-          "name": "The Guardian",
-          "title": "Trump proposing new tariffs on 14 partners including China and EU",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNzJkNEt0SmxFczJuc25uRFpYRjc1bDBVZ191T1p5TnFTbjRxeHA0QTk2TE1VM0FJMlI1ems4N1ItOGRFcHhma3ZLdEJKT01NSF9yVjFTaTc4SmlpQk5iSnRfdjRBZ2VCdDlLM0JEbFAtYkVjNXF1a0NqTG9OazJPaWFmamQ?oc=5"
-        },
-        {
-          "name": "Bloomberg",
-          "title": "US Targets China, EU With New Tariffs Citing Overcapacity",
-          "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQOWM5Vm8yZ0dtNTRyRFIxYjc0R3ZZMEwxeGNsT0dUWXV6STNtU2VXN0tkY1ROZHdWVkpwWHF3NXpQMk16SS1TU2VwVUJSSUtpek9FcHVmNE80eTBjNzFqdHVIa2NHSUp1WHBXRWZDMEFKUHJfNVB5cHZGT0JCUng0cktmRXowWVd4T0JyZ1RzQW5ubTk0OUZHSE11aDE0SkJjZENuelpNOGExSXMyc2dDNDNB?oc=5"
+          "name": "CNBC",
+          "title": "How Trump’s latest tariff moves hand India an edge over rival Asian exporters",
+          "link": "https://www.cnbc.com/2026/11/26/trump-us-tariff-india-trade.html"
         }
       ],
       "llm_rank": 1,
-      "outlets": 6,
-      "score": 1.0
+      "outlets": 5,
+      "score": 0.92
     },
     {
       "rank": 2,
       "category": "기술/과학",
       "region": "미국",
-      "title": "엔비디아 젠슨 황 복귀 논란과 AI 안보 의혹에 월가 촉각",
-      "short_title": "젠슨 황 복귀 논란",
-      "summary": "도널드 트럼프 대통령의 개입으로 젠슨 황 CEO가 엔비디아에 복귀했으나 사법당국의 조사와 중국 스파이 연루 의혹이 겹치며 파장이 커지고 있습니다. 미국 의회는 국가안보 위협 여부에 대한 정보당국의 조사를 촉구하고 있으며, 법무부는 칩 우회 수출 경로를 추적 중입니다. 정치적 논란과 막대한 AI 투자 비용 부담이 맞물리며 엔비디아 주가와 AI 관련 기술주는 급격한 조정을 겪고 있습니다.",
-      "why_it_matters": "글로벌 반도체와 AI 공급망의 핵심 기업이 정치·안보 스캔들에 휘말리면서 국내 반도체 산업 생태계에도 직간접적 여파가 예상됩니다.",
+      "title": "미국, 대중국 AI 반도체 규제 고삐… 엔비디아 동남아 출하 중단",
+      "short_title": "AI 반도체 규제",
+      "summary": "미국 정부가 중국의 우회 접근을 막기 위해 첨단 AI 칩에 대한 수출 및 원격 접속 규제를 대폭 강화했습니다. 이에 따라 엔비디아는 동남아시아 일부 국가로의 서버 및 칩 선적을 일시 중단했습니다.",
+      "why_it_matters": "글로벌 빅테크의 AI 인프라 확장이 제약을 받으면서 전 세계 반도체 공급망과 관련 기업들의 실적에 직격탄이 되고 있습니다.",
       "sources": [
         {
-          "name": "BBC",
-          "title": "Trump's rescue of Nvidia's Huang brings political risks",
-          "link": "https://www.bbc.co.uk/news/articles/ckj05m2zdyryo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "BBC",
-          "title": "Trump's accounts traded Nvidia shares 44 times this year, records show",
-          "link": "https://www.bbc.co.uk/news/articles/cq772vk664yvo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "BBC",
-          "title": "Zoe Kleinman: Nobody is irreplaceable - unless you're Jensen Huang",
-          "link": "https://www.bbc.co.uk/news/articles/c3rrgqj2zx5yo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "BBC",
-          "title": "Faisal Islam: Fears over the AI boom haven't gone away",
-          "link": "https://www.bbc.co.uk/news/articles/c6894evgpel5o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "BBC",
-          "title": "US attorney general dodges questions about Nvidia investigation",
-          "link": "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo?at_medium=RSS&at_campaign=rss"
-        },
-        {
           "name": "NYT",
-          "title": "National Security vs. the Stock Market",
-          "link": "https://www.nytimes.com/2026/11/24/world/nvidia-trump-stocks-china-books.html"
+          "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+          "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html"
         },
         {
-          "name": "NYT",
-          "title": "Why the Nvidia Rally Fizzled",
-          "link": "https://www.nytimes.com/2026/11/25/business/dealbook/nvidia-huang-ai-rally.html"
-        },
-        {
-          "name": "NYT",
-          "title": "Blanche Downplays Questions Over Nvidia as Investigators Examine Company’s Customers",
-          "link": "https://www.nytimes.com/2026/11/24/us/politics/nvidia-justice-department-todd-blanche.html"
-        },
-        {
-          "name": "NYT",
-          "title": "Trump’s Nvidia Push Shows Companies’ Importance in Global Economic War",
-          "link": "https://www.nytimes.com/2026/11/24/business/economy/trump-nvidia-national-security-us-economics.html"
-        },
-        {
-          "name": "NPR",
-          "title": "Republican wants FBI and CIA answers before questioning Nvidia chief",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6052417/nvidia-jensen-huang-reaction-republicans-congress-investigation"
+          "name": "DW",
+          "title": "How Chinese companies circumvent chips sanctions in Southeast Asia",
+          "link": "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002?maca=en-rss-en-world-4025-rdf"
         },
         {
           "name": "CNBC",
-          "title": "AI debt worries grow as Nvidia rebound masks Big Tech spending squeeze",
-          "link": "https://www.cnbc.com/2026/11/25/ai-debt-big-tech-spending-nvidia.html"
-        },
-        {
-          "name": "CNBC",
-          "title": "Tech rout deepens globally; Softbank falls 15%, Nvidia down 4.5% premarket",
-          "link": "https://www.cnbc.com/2026/11/25/tech-stocks-softbank-group-advantest-sk-hynix-samsung.html"
-        },
-        {
-          "name": "CNBC",
-          "title": "Jensen Huang tells staff that Nvidia doesn't need a succession plan",
-          "link": "https://www.cnbc.com/2026/11/24/jensen-huang-nvidia-employee-meeting.html"
-        },
-        {
-          "name": "CNBC",
-          "title": "Trump open to pardoning Jensen Huang if needed: NY Post",
-          "link": "https://www.cnbc.com/2026/11/25/trump-huang-pardon-politics.html"
-        },
-        {
-          "name": "CNBC",
-          "title": "Jensen Huang's Nvidia return shows the U.S.-China AI race is about more than chips",
-          "link": "https://www.cnbc.com/2026/11/25/jensen-huang-nvidia-ai-talent-race.html"
-        },
-        {
-          "name": "CNBC",
-          "title": "Trump wanted Jensen Huang back. Now, the president is all alone in Washington",
-          "link": "https://www.cnbc.com/2026/11/24/trump-jensen-huang-nvidia.html"
-        },
-        {
-          "name": "CBS News",
-          "title": "Inside Trump's effort to reinstate Jensen Huang as Nvidia's CEO",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4tTWlzV2QtbGYtSlA0QmRDSnZLXzE5TXJqTFI4SXRJZF9hOVhmUERadW8taGZjdFllTDNYRnJIbExsMG1lWTJvYkFwTWN3bGJab19YaVlKcG11dHVBOFBqVFB3V0tIcHRVb0hPMFU1V1B6V1EzU0cyVW9B?oc=5"
-        },
-        {
-          "name": "BBC",
-          "title": "Trump’s accounts traded Nvidia shares 44 times this year, records show",
-          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zeHlzeG5POVNQREwyaGhoTnNCb0taYVN3MkRDNjItbUZyNmZHU2taS2F5Q2dKaDVYeVFWVTg4bG1MNlVmb284Ti1pOEwyRzJ1RjFXVHVWWEZmR2s?oc=5"
-        },
-        {
-          "name": "Willamette Week",
-          "title": "Oregon Man Sleeps With Suspected Spy, Tanks Global Economy",
-          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPRG56OGlRUEZybjl2ZWZfWGZZV0RYTHp4X0h5b1RKS0swVjJjVTlfa3N5NllaakUwT0ZtZDFZZkQwSjcyOVE5Y1U3TVdkNWxrQmx0QXUwaV9UMlI2cjM4eUdQc1doZDVQelczZFQ3NTF5VnVNbVlpQ0R3Um5pQ3lyNWVoYUhQTWpPczdFMnVNOV9pSk1KNVRNT3ZVNkk?oc=5"
-        },
-        {
-          "name": "WSJ",
-          "title": "No Evidence China Orchestrated Jensen Huang’s Affair, Officials Brief Congress",
-          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNM1MzT3BJb0JlQ2xzdTJRZi12MllDSlBzS3IwMlZkYVZhV2NuUnpPWGV3LW9lVUg3MTg5QzZ5amhpRTZMeThEYXpLSHc5Q1RJdkh0RVVmMmd0aEQ4OHZIYTBWZ0JiWV9FU2dPbnNjQ1c4LXpfNFZaWmlMckdqWkl1U2Nvb1NoZUdlYVNNQ2xYVHNPc2ZQY05qS0xTd1lUUkowaHdEQUlLVGhJYjdPM01JMFByUDV3QjRhQmJ4aThsSDhSQTIwSUpfMy1UZlE?oc=5"
+          "title": "Nvidia chip buyers told to rule out Chinese renters to purchase GPUs, sources say",
+          "link": "https://www.cnbc.com/2026/11/26/neoclouds-nvidia-china-ai.html"
         },
         {
           "name": "CNBC",
           "title": "Nvidia sellers seek new buyers as U.S. curbs China AI chip access, sources tell CNBC",
-          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1IN1pwRHJFN1ZiXzJpeXpsLWI5RGJNMTNUU3VSNFY5Q21iUkVkNDhneFg2VFg4TTI3R3k5RXUtb0hBRGRhYkVXdXZablA3dG4zSF9yc3Q5YmVDTjBBZjAxMXJFWUdCUFFwZHQ3dm9QWG5uSWhXdS1KRGRVY9IBgAFBVV95cUxPYW9MbXdwMWFTZFd6dmhZLVNGYzdHUmNDaF9VQk5jN2lMdDFfU010WUdOX2t1ai1qNXYtZi1TbnVTbEt6b0pvejRsdjJoYmZuWXJwZjl4TkpuZHNpeHNIbEpFZkxuc3RnNExQZGRWZ0ZQTy0xYU9wYnhCT3k5a2tBUA?oc=5"
+          "link": "https://www.cnbc.com/2026/11/25/nvidia-china-ai-chip-remote-access.html"
+        },
+        {
+          "name": "WSJ",
+          "title": "Nvidia Tells Partners to Pause Shipments to Southeast Asia",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMGFER2Vpbl9JMXo5TFF1MFdQemdLcWFENFE0eGhwRS1pWkVyVTJvMFQ3RnRxUURGSjBxbHVMVVlyYzk0N3ZVU0tfb0tJa3NJREFmSzNmbkVWd0xxdDlvLUlqNzQ1bnBmUExWNWxmVTczRG1UNEQzd3NReXh5N2xTU3IwbkRwcDJFT1BXYzExU3NLMVNkZ3RR?oc=5"
+        },
+        {
+          "name": "Reuters",
+          "title": "EXCLUSIVE: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
+          "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSHo5VjlHR1l4UkdCSmFGNUd6WVlZNXlwZXl6Yk5oYUFnTm9ISC1ZSWdmbi1aZ3R1b1Q3bXhpaXVoSXRaNy1hcWdSWHdCd2RFVGx6WlhYN25pZXI4Q2xHWGpQVkJYN2MwTk1ma2NERnBKTHhBUXpHSElLeFdwdEpVZFZZcWhxMm1QUEVpeHRYSXczYXNJelJTUWtHdEkxSGpud2NxeV90R0VjTXVkTmE4U0JRZWVRM1RFUmt3UGhIbw?oc=5"
         }
       ],
-      "llm_rank": 3,
-      "outlets": 6,
-      "score": 0.914
+      "llm_rank": 2,
+      "outlets": 5,
+      "score": 0.877
     },
     {
       "rank": 3,
       "category": "분쟁/안보",
-      "region": "유럽",
-      "title": "러시아 유출 자료 \"우크라이나전 전사자 50만 명 육박\"",
-      "short_title": "러군 사망자 유출",
-      "summary": "해킹으로 유출된 러시아 공식 통계 자료에 따르면 우크라이나 전면 침공 이후 러시아군 사망자가 50만 명에 근접한 것으로 드러났습니다. 막대한 인명 피해에도 불구하고 러시아는 옛 소련 붕괴 이후 최대 규모의 국방 예산을 편성하며 공세를 이어가고 있습니다. 독일의 프리드리히 메르츠 총리는 러시아의 야심이 우크라이나를 넘어 유럽 전역으로 확산되고 있다고 경고했습니다.",
-      "why_it_matters": "러시아의 막대한 군사 손실과 장기전 태세는 유럽의 안보 지형을 근본적으로 뒤흔들며 장기 소모전 위험을 높이고 있습니다.",
+      "region": "중동",
+      "title": "쿠웨이트 미군 기지 인근 드론 피습으로 이탈리아 기술자 2명 사망",
+      "short_title": "쿠웨이트 피습",
+      "summary": "쿠웨이트 내 독일 기업 소속 기술자 2명이 드론 공격 파편에 맞아 숨지는 사건이 발생했습니다. 이란은 이번 공격과의 연관성을 강력히 부인했습니다.",
+      "why_it_matters": "중동 지역의 긴장이 고조되면서 걸프 국가 내 주요 시설과 외국인 인력의 안전에 대한 우려가 커지고 있습니다.",
       "sources": [
         {
           "name": "BBC",
-          "title": "Russia's own figures show it has lost nearly 500,000 people in Ukraine war",
-          "link": "https://www.bbc.co.uk/news/articles/cmx27g533zwyo?at_medium=RSS&at_campaign=rss"
+          "title": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+          "link": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o?at_medium=RSS&at_campaign=rss"
         },
         {
-          "name": "The Guardian",
-          "title": "‘Russia wants more than Ukraine,’ Germany’s Merz warns – as it happened",
-          "link": "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates"
+          "name": "NYT",
+          "title": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
+          "link": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html"
         },
         {
-          "name": "FT",
-          "title": "Russia is escalating conflict in Europe and in space, warns Friedrich Merz",
-          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQODF6VXp0UThYNDhTT2xTd01qTnY0WVY4MUF3TkVfVVNUMm9BSE12QjFidXpQWmd5MlVhbXRTaDREdi1IR3o1TzVWUU1xZTVFXzRFN0w4ZE9qQUhmekFUVUhoNWdHTHYwWnBqNFFYZHdveGpGLUFaaE9GaEExa3hmMzBpNjM?oc=5"
+          "name": "Al Jazeera",
+          "title": "Two Italians killed by ‘drone strike debris’ in Kuwait",
+          "link": "https://www.aljazeera.com/news/2026/11/26/two-italians-killed-after-iranian-drones-strike-facility-says-kuwait?traffic_source=rss"
         },
         {
-          "name": "CBS News",
-          "title": "More than 490,000 Russian soldiers have died during Ukraine war, leaked data suggests",
-          "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQX2pWcjFHdXEyc0tDU1lnYUFVaDhneEg2eHY4ajVDaG9IemhYNXpJejJ0ekFfRmNQM2xXaVVKTWlSRS1XUGNfekxtNGEtXzg3SHNCZlJtOURPdFplQ2N3Z1dLcDVtaldGTmRTSXNEM1RtSTVRUU14WHBINWJfVkRfczczZ3hqaUJGNlVURGpn?oc=5"
+          "name": "Al Jazeera",
+          "title": "Two dead after Iranian drone attack on Kuwait",
+          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/26/two-dead-after-iranian-drone-attack-on-kuwait?traffic_source=rss"
         },
         {
           "name": "Washington Post",
-          "title": "Russia has passed the biggest military budget since Soviet times",
-          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMHRLYUVoclBrczZzTW1yQko0dVQtTWI1Rk1tM0YyMkNub1p5V2lqTzlpVWoxZGxPbDEzXzJjWW9VR1JPYVItdWJmSjBmMUJuNGhuVlRFNWVkZHF2UW9VdzFzNjM2aGUwM0JUN1U0LUFFcThuRHEyMGhMMzZaOVZqeDdOTWZGVXhYckxrTVZ1ZUdJT19SVTNNTEpzT3JDVlhNb2FoUXlST0ZzZ0diWEE?oc=5"
+          "title": "Two Italians killed in Kuwait as a strained Iran ramps up attacks",
+          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdFVJenQ4a3hlOERnbnhWVGJ1QkNhUVQ1UjFGdUl2QjRFTjVaQUM4VC1sN2ZIWV9INVA3Y1hjUDA5VV94Zk4yOGF2Z00zak5OcGVNYTA3d2trbUxneVR6NnV0YXZ5Y3R5RDh3cTN0LVNqenltbmZMX2E1VkswTmNOT0t4R3hKWDNNeTRRbThMN2lFcUpRUjRwTjVnWS1sSDRLN2NTczlQNGg1Zw?oc=5"
         }
       ],
-      "llm_rank": 4,
-      "outlets": 5,
-      "score": 0.791
+      "llm_rank": 3,
+      "outlets": 4,
+      "score": 0.754
     },
     {
       "rank": 4,
-      "category": "경제/금융",
-      "region": "글로벌",
-      "title": "미 10월 인플레이션 3.8% 가속에 추가 금리 인상 공포 확산",
-      "short_title": "미 물가·금리 충격",
-      "summary": "미 연방준비제도(Fed)가 선호하는 10월 개인소비지출(PCE) 물가지수가 전년 동월 대비 3.8% 상승하며 인플레이션 압력이 재확인됐습니다. 이에 따라 연준이 다음 달 기준금리를 다시 인상할 것이라는 관측이 지배적으로 떠올랐습니다. 고물가와 금리 인상 우려가 겹치며 금값은 1년 만에 최저치로 떨어졌고 글로벌 기술주도 급락세를 보였습니다.",
-      "why_it_matters": "미국의 긴축 기조 장기화는 한국의 통화정책 운용 부담을 키우고 고환율과 자본 유출 위험을 자극할 수 있습니다.",
-      "sources": [
-        {
-          "name": "BBC",
-          "title": "US stocks fall further as fears over AI intensify",
-          "link": "https://www.bbc.co.uk/news/articles/cq0md8g14zryo?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYT",
-          "title": "Another Hot Inflation Reading Keeps Fed on Track to Raise Rates Again",
-          "link": "https://www.nytimes.com/2026/11/25/business/economy/inflation-pce-interest-rates.html"
-        },
-        {
-          "name": "NYT",
-          "title": "Stocks Slump Again as Investors Fret About A.I., Tariffs and Inflation",
-          "link": "https://www.nytimes.com/2026/11/25/business/stocks-sp500-nvidia-ai.html"
-        },
-        {
-          "name": "CNBC",
-          "title": "Tech stocks sink but close well off the lows, Anthropic struggles to rebound above IPO price",
-          "link": "https://www.cnbc.com/2026/11/25/nvidia-ai-stock-tech-selloff.html"
-        },
-        {
-          "name": "CNBC",
-          "title": "Dow closes higher Wednesday, wiping out 1,100-point loss in stunning rebound: Live updates",
-          "link": "https://www.cnbc.com/2026/11/24/stock-market-today-live-updates-.html"
-        },
-        {
-          "name": "CNBC",
-          "title": "Fed’s preferred inflation gauge accelerated to 3.8% in October, raising the 2027 stakes for the central bank",
-          "link": "https://www.cnbc.com/2026/11/25/pce-inflation-report-october-2026.html"
-        },
-        {
-          "name": "CNBC",
-          "title": "Gold falls to more than one-year low after data shows U.S. inflation rose further",
-          "link": "https://www.cnbc.com/2026/11/25/gold-metals-federal-reserve-inflation.html"
-        },
-        {
-          "name": "Fox Business",
-          "title": "Tech sell-off deepens as Nasdaq, S&P 500 slide",
-          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Hd2FLTXFFUWpNMm5obU44TzFQZF81dHlMSUZ1V2VkbTZtSlV1S1paY3puZ1BvTnBjXzdUOWRxMFdreEpBVUVqZktNaUk0ZXFBcjRtUk94aDdyekRqQ09GeEdNY9IBaEFVX3lxTFBOQ0Zidkp5WEh1U21VUlhodGQ3UkVVTTNRWGVrLUtNWGt3N05CZEh6eV8tbXlVNVVhZ3NpUXFxMDlqUnNad3VMSUJGcVNvZ0MwZUc4VmkzdzJzM1dCbEZVMXgwZ29aU3cx?oc=5"
-        },
-        {
-          "name": "ABC News - Breaking News, Latest News and Videos",
-          "title": "Fed's preferred gauge of inflation climbs ahead of possible rate hike",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbFd6dlZlV25JVlBjcjRXWWdYUTdqd2ZBeG1WbGI3Z1dGRjhwN0pCWEJteUN2YVBvSHFXbHl2M3VPcS05WU9TTWlQaVpZS3BVTTV1Sk1kVTNDSXQyOWlMLUJOT1ViUnhGUnM0Qkhxc3BGUlFMeUU2aHVBYy1SQTJPNVZDZUJwWkdhLUVUdWZNREdxaHI2R1BROTZlbTliVHZCVFdUWGMzaU02UdIBrwFBVV95cUxPWE1jU1l6LVdTcGhmTWp6aUROSnFNX0tsQVF2Q0FRam85VGs4SS1CNlg3VUpSRF95Y0Z1cnRzdGtGOWM0YWJLUTNhRElWVTNaQzdjVHA3TzYyN25yOTlyMV9qZzhzLTRZNHlDMFF4emdVQU9UbGZnWnktMC1tNTFQUURsN1NxRW05TUhyNW1odXcwbWI0T2xnYXlkdXkyaXNpS0VXMGlVZDVHcGNpamkw?oc=5"
-        }
-      ],
-      "llm_rank": 2,
-      "outlets": 3,
-      "score": 0.717
-    },
-    {
-      "rank": 5,
-      "category": "분쟁/안보",
-      "region": "중동",
-      "title": "예멘 후티 반군, 사우디 수도 타격 이어 아덴 진격 위협",
-      "short_title": "후티 사우디 공습",
-      "summary": "친이란 예멘 후티 반군이 사우디아라비아 수도 리야드의 국부펀드(PIF) 고층빌딩을 드론으로 공격해 11명이 부상했습니다. 이와 동시에 후티 반군은 예멘 정부의 임시 수도인 남부 항구도시 아덴을 향해 세력을 확장하며 전면 포위 태세를 굳히고 있습니다. 이란 전쟁의 여파로 예멘 내전이 재점화되면서 주요 항만을 통한 인도적 지원마저 중단될 위기에 처했습니다.",
-      "why_it_matters": "중동 산유국 중심부 타격과 홍해 인근 안보 불안은 국제 유가 급등과 글로벌 해상 물류 마비를 재촉할 수 있습니다.",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "‘They don’t believe in freedom’: Yemenis plan their escape as Houthis advance on Aden",
-          "link": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden"
-        },
-        {
-          "name": "NYT",
-          "title": "How an Iranian Ally Gained the Upper Hand in Yemen’s War",
-          "link": "https://www.nytimes.com/2026/11/25/world/middleeast/yemen-houthis-war-government-losses.html"
-        },
-        {
-          "name": "NYT",
-          "title": "Defending Aden, Yemen’s Holdout Against the Houthis",
-          "link": "https://www.nytimes.com/video/world/middleeast/100000011300541/defending-aden-yemens-holdout-against-the-houthis.html"
-        },
-        {
-          "name": "NYT",
-          "title": "Houthi Attack on Skyscraper in Saudi Capital Wounds 11, Officials Say",
-          "link": "https://www.nytimes.com/2026/11/24/world/middleeast/saudi-skyscraper-houthi-strike.html"
-        },
-        {
-          "name": "Al Jazeera",
-          "title": "Could renewed strikes on Hodeidah port worsen Yemen’s humanitarian crisis?",
-          "link": "https://www.aljazeera.com/news/2026/11/25/could-renewed-strikes-on-hodeidah-port-worsen-yemens-humanitarian-crisis?traffic_source=rss"
-        },
-        {
-          "name": "CNBC",
-          "title": "Houthi attack on Saudi Arabian sovereign wealth fund PIF's tower injures 11",
-          "link": "https://www.cnbc.com/2026/11/25/us-iran-war-trump-hormuz-houthi-saudi-pif-tower.html"
-        },
-        {
-          "name": "Al Jazeera",
-          "title": "Saudi civil defence says 11 injured in Houthi drone attack on Riyadh tower",
-          "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT3JsaU96a05ySk9rVHZIazNjQmt6Z2ZCZF9nRWFSVHVqa0s1LVhhRXhVc1VSMjNfWHhQTVZyZU9GZEtsZHRRVU5yVGVUYmVwZkRDNC1iSmYyWDc0UTdhV2pOenhuWDFkQ0ZWWkhwcTFoN2tsU3JjcllUWWJkcDBvUHU4MTAzSi0zX05oM0NLQVpua1VFNmJfcWE3cmh1al82V29SdDhCSkc4d9IBrwFBVV95cUxPQ1M5eHo1Rk9NaE5DM2hNbGF1akUxczVaekNKRWRUN3JxZ0ZJd05TYno2b2o2bVU0ZWJxWE5GWE5kT19lRHR6Z3k0TVpkaXFuY2dBMXNmaFE2YWpubno0VGZFUFlEbEJqY2NKODVWX09BVUpEUGZTXzRrY3RZWi1YUFdtaUN2amFOSm1sNXJRRzA3TW84Sk0wcUJYN1NCSEpKbV9ZZk8zNUtZSzJVdjFV?oc=5"
-        }
-      ],
-      "llm_rank": 5,
-      "outlets": 4,
-      "score": 0.669
-    },
-    {
-      "rank": 6,
-      "category": "정치/외교",
-      "region": "동아시아",
-      "title": "시진핑, 차기 유력 주자 천지닝 상하이 당서기 전격 조사",
-      "short_title": "천지닝 상하이 조사",
-      "summary": "중국 공산당 최고 지도부인 중앙정치국 위원이자 상하이시 일인자인 천지닝 당서기가 부패 혐의 등으로 당국의 조사를 받게 됐습니다. 천지닝은 시진핑 체제 이후 차세대 지도부 핵심 후보로 유력하게 꼽히던 인물이어서 정가에 큰 충격을 주고 있습니다. 이번 조사는 2025년 이후 정치국원급 고위 인사를 겨냥한 네 번째 대규모 숙청으로 권력 재편을 가속하고 있습니다.",
-      "why_it_matters": "중국 핵심 권력 내부의 권력투쟁과 불확실성은 대외 정책과 글로벌 공급망 협력 전반에 중대한 변수로 작용합니다.",
-      "sources": [
-        {
-          "name": "The Guardian",
-          "title": "China investigates politburo star in Xi Jinping’s latest purge",
-          "link": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge"
-        },
-        {
-          "name": "NPR",
-          "title": "China investigates Politburo member and Shanghai party chief Chen Jining",
-          "link": "https://www.npr.org/2026/11/25/nx-s1-6053801/china-investigation-politburo-shanghai-party"
-        },
-        {
-          "name": "NBC News",
-          "title": "A rising star in China is the latest victim of Xi’s purge",
-          "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOME5kMWtTeDRDYjZaM1U0aWRDX2ZocDVKV3FxdDB5WnItTmJwRE5XNFd4amhXcTlxbzB1eXpWSWQtcTZTXzEwNzR1YksxRUtpbFFsLWlWb0dSWkV6ZHY2d2lGUlYzZFRZdWJKaHhxYW5ENm5ReWxkbnJXcjlweHdaUTBzUV95cUZpRWVWTk1wRDJ5dmNiYTNaRzN3MkRaRUpsOGc?oc=5"
-        }
-      ],
-      "llm_rank": 6,
-      "outlets": 3,
-      "score": 0.546
-    },
-    {
-      "rank": 7,
-      "category": "정치/외교",
-      "region": "중동",
-      "title": "이스라엘 법원, 네타냐후 총리 핵심 부패 혐의 기각 권고",
-      "short_title": "네타냐후 혐의 기각",
-      "summary": "베냐민 네타냐후 이스라엘 총리의 부패 재판을 담당하는 재판부가 가장 무거운 혐의 중 하나에 대해 유죄 입증 가능성이 낮다며 공소 취소를 권고했습니다. 네타냐후 총리는 즉각 재판이 완전히 종료돼야 한다고 주장하며 정치적 공세를 강화했습니다. 반면 야당은 12월 초를 시한으로 정하고 총리 불신임 및 새 연립정부 구성을 추진하며 정국 혼란이 이어지고 있습니다.",
-      "why_it_matters": "네타냐후의 정치적 생존 여부는 현재 진행 중인 가자지구 및 중동 전역의 군사 전략과 휴전 협상에 결정적 영향을 미칩니다.",
-      "sources": [
-        {
-          "name": "BBC",
-          "title": "Israeli judges recommend dropping most serious charges against Netanyahu",
-          "link": "https://www.bbc.co.uk/news/articles/cxj05mv723r2o?at_medium=RSS&at_campaign=rss"
-        },
-        {
-          "name": "NYT",
-          "title": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
-          "link": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html"
-        },
-        {
-          "name": "NYT",
-          "title": "Opposition Makes Progress Toward Ousting Netanyahu, Party Leader Says",
-          "link": "https://www.nytimes.com/2026/11/25/world/middleeast/israel-opposition-netanyahu-new-government.html"
-        },
-        {
-          "name": "Al Jazeera",
-          "title": "Netanyahu says corruption trial ‘must end’ as court suggests dropping case",
-          "link": "https://www.aljazeera.com/news/2026/11/25/netanyahu-says-corruption-trial-must-end-as-court-suggests-dropping-case?traffic_source=rss"
-        }
-      ],
-      "llm_rank": 8,
-      "outlets": 3,
-      "score": 0.46
-    },
-    {
-      "rank": 8,
       "category": "사회",
-      "region": "중동",
-      "title": "이집트 카이로 고속도로 유조차 전복 화재… 최소 30명 사망",
-      "short_title": "카이로 유조차 참사",
-      "summary": "이집트 수도 카이로 외곽 순환도로에서 유류 제품을 운반하던 탱크로리 차량이 전복되면서 대규모 화재가 발생했습니다. 이 사고로 최소 30명이 사망하고 15명 이상이 중경상을 입어 인근 병원으로 이송됐습니다. 혼잡한 도로에서 연쇄 화재로 이어지며 피해 규모가 급격히 커졌습니다.",
-      "why_it_matters": "주요 교통망의 위험물 운송 안전 취약성을 드러내며 중동 최대 인구 밀집 지역의 사회적 안전망 이슈로 부각됐습니다.",
+      "region": "이집트",
+      "title": "이집트 카이로 고속도로에서 유조차 전복 후 대형 화재로 최소 31명 사망",
+      "short_title": "이집트 유조차 화재",
+      "summary": "이집트 카이로 외곽의 순환도로에서 유조차가 전복되며 대형 화재가 발생해 최소 31명이 숨지고 수십 명이 부상당했습니다. 당국은 과속 추월을 시도하던 승용차 운전자를 체포해 조사 중입니다.",
+      "why_it_matters": "대형 교통사고로 인한 인명 피해가 극심해지며 개발도상국의 도로 안전 및 위험물 운송 규제 강화 목소리가 커지고 있습니다.",
       "sources": [
         {
           "name": "BBC",
-          "title": "At least 30 killed in massive fire as fuel tanker crashes on Cairo highway",
-          "link": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o?at_medium=RSS&at_campaign=rss"
+          "title": "Egyptian authorities arrest motorist over tanker crash that killed 31",
+          "link": "https://www.bbc.co.uk/news/articles/c3gre90l0g45o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "title": "Deadly fire erupts near Cairo killing dozens of people",
+          "link": "https://www.bbc.co.uk/news/videos/c52e8ndplvemo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "At least 31 killed as fuel tanker crash ignites large fire on Cairo highway",
+          "link": "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway"
         },
         {
           "name": "NYT",
@@ -400,83 +164,209 @@
         },
         {
           "name": "Al Jazeera",
-          "title": "Dozens killed in Egypt vehicle fire",
-          "link": "https://www.aljazeera.com/video/newsfeed/2026/11/25/aje-onl-nf_dozens-killed-in-egypt-vehicle-fire-251126?traffic_source=rss"
+          "title": "Egypt detains driver over Cairo fuel tanker fire that killed 31",
+          "link": "https://www.aljazeera.com/news/2026/11/26/egypt-detains-driver-over-cairo-fuel-tanker-fire-that-killed-31?traffic_source=rss"
+        },
+        {
+          "name": "CBS News",
+          "title": "Egypt tanker explosion kills 31 people as driver crashes into fuel truck in fiery highway crash",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNcTJtLVRTTmczWXpYalJuY0hOeVNBWTFsU2xGVVc3TnhDVUFldHhCRU1lNEl6dFp2V0ROTTluYjQ4aFBUU0Y4SWF3NnNqWTkzQlg0NEFxMzI2RW9ibF9DTGVvZGVzVjFSX0lmem1ZR0V3Qm5kaGFFZHJxem9JbXJ0QQ?oc=5"
+        }
+      ],
+      "llm_rank": 5,
+      "outlets": 5,
+      "score": 0.749
+    },
+    {
+      "rank": 5,
+      "category": "경제/금융",
+      "region": "유럽",
+      "title": "유럽중앙은행(ECB) 차기 총재에 스페인 중앙은행장 파블로 에르난데스 데 코스 내정",
+      "short_title": "ECB 총재 내정",
+      "summary": "크리스틴 라가르드의 뒤를 이을 차기 유럽중앙은행(ECB) 총재로 스페인의 파블로 에르난데스 데 코스 전 스페인 중앙은행 총재가 선출되었습니다. EU 주요국들의 지지를 얻어 정치적 불확실성 속에서 중책을 맡게 되었습니다.",
+      "why_it_matters": "유럽 경제가 저성장과 정치적 격변을 겪는 시점에서 향후 유로존 통화 정책 방향을 결정할 핵심 인물의 교체입니다.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "Spain’s Pablo Hernández de Cos wins race to be next ECB president",
+          "link": "https://www.theguardian.com/business/2026/nov/26/spain-pablo-hernandez-de-cos-next-ecb-president"
+        },
+        {
+          "name": "NYT",
+          "title": "European Central Bank Chooses Pablo Hernández de Cos as Next President",
+          "link": "https://www.nytimes.com/2026/11/26/business/ecb-pablo-hernandez-de-cos.html"
         },
         {
           "name": "Al Jazeera",
-          "title": "At least 30 killed in Egypt vehicle fire, health ministry says",
-          "link": "https://www.aljazeera.com/news/2026/11/25/at-least-30-killed-in-egypt-vehicle-fire-health-ministry-says?traffic_source=rss"
-        },
-        {
-          "name": "AP",
-          "title": "Libyan officers die after Ukrainian strike, a highway fire in Egypt kills 30, and other Mideast news",
-          "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONEtNTlFzQUotcXU1N1VCaXBGY0pYWnlqLWVfQ0F3WVl4YkdGMXBIZzdOczlFaFNnUUdZclhRVVlxNE5yVjhzektQSDh0YmRtaGVGQWk3UmNMbUljUjNmZ3NDMTh2dUhlNDdKMzBydnRGZ09EelN2anNjNTcyWkN5OTZkR25TUllOWjZ5SVhoVDJwZ245Q01lSVozd2dfdjRoRFhYTXo3LWtaaTgwanR2eURrMnY2ZEt5?oc=5"
-        },
-        {
-          "name": "AP",
-          "title": "Fuel tanker crash ignites a massive fire on a highway surrounding Cairo, killing at least 30 people",
-          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNaEhpcnZZbkFLdDdZb1VrR2laRkJMMUxDYi1FZHZPOUo0LVpBdl9wUUlXMG1Ealh0eHJOU0o3Q0JSOFU4LXVlcWgyUDd6bDVLa2ZNWGY2aWVId0pnYlNNaHkzSkw2YzdEN3dMN0hGUzNZRktJekRLQWZIbmk5d2lrTElCeXZSV1IxUi0yamFWZzJsUQ?oc=5"
-        }
-      ],
-      "llm_rank": 10,
-      "outlets": 4,
-      "score": 0.454
-    },
-    {
-      "rank": 9,
-      "category": "분쟁/안보",
-      "region": "글로벌",
-      "title": "솔로몬제도, 호주와 안보조약 체결… 중국 남태평양 진출 차단",
-      "short_title": "호주·솔로몬 조약",
-      "summary": "남태평양 도서국 솔로몬제도가 호주와 새로운 안보조약을 체결했습니다. 이번 협정은 외국 군사기지 설치를 배제하는 조항을 담아, 2022년 중국과의 안보 협정 이후 제기되던 중국의 남태평양 군사기지화 우려를 전격 차단했습니다. 이는 태평양 도서 지역에서 군사적 영향력을 넓히려던 베이징 당국에 외교적 타격을 준 것으로 평가됩니다.",
-      "why_it_matters": "미·중 간 남태평양 해양 전략 경쟁에서 서방 진영이 핵심 요충지를 방어하며 군사적 균형추를 다잡는 계기가 됐습니다.",
-      "sources": [
-        {
-          "name": "NYT",
-          "title": "Solomon Islands Enters Security Treaty With Australia, in a Blow to China",
-          "link": "https://www.nytimes.com/2026/11/24/world/asia/solomon-islands-security-treaty-australia-china.html"
-        },
-        {
-          "name": "AP",
-          "title": "Solomon Islands signs treaty with Australia that checks China's influence in the South Pacific",
-          "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRnFmRmJkLVRidmctZElBTjI3YzQ0OVNIZmRNZ1I2Q0NTNXM3TlpERXdYejNQVzA1blN6c0VTbjJsZXZ1U1NJYTdGQTJhOV8wQTFBVEtyTXRobGxYdldFQmtLNjU3S0tfREhCaXpBVVJYT1FhWC1EU0MzRll1ME1OSDNDZXZhV1FpOXEyNVROak14dFo4d2pTQzMxR3JoUWk3MjZib1dxekNfdHc?oc=5"
-        }
-      ],
-      "llm_rank": 7,
-      "outlets": 2,
-      "score": 0.423
-    },
-    {
-      "rank": 10,
-      "category": "기술/과학",
-      "region": "미국",
-      "title": "미 배심원단, 화웨이에 영업비밀 절도 등 형사 유죄 평결",
-      "short_title": "화웨이 비밀절도",
-      "summary": "미국 뉴욕 연방법원 배심원단이 수개월간의 심리 끝에 중국 통신장비업체 화웨이에 대해 영업비밀 절도 공모 및 은행 사기 혐의로 유죄를 인정했습니다. 다만 검찰이 적용했던 조직범죄처벌법(RICO) 위반 혐의에 대해서는 무죄 평결을 내렸습니다. 이번 판결은 첨단 통신 기술을 둘러싼 미·중 갈등이 사법적 단죄 단계로 확정됐음을 보여줍니다.",
-      "why_it_matters": "미국의 대중국 기술 제재 및 사법 조치가 공고해짐에 따라 글로벌 IT 및 통신 장비 공급망의 분절이 더욱 심화될 전망입니다.",
-      "sources": [
-        {
-          "name": "BBC",
-          "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
-          "link": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo?at_medium=RSS&at_campaign=rss"
+          "title": "Spanish economist to become new European Central Bank chief",
+          "link": "https://www.aljazeera.com/news/2026/11/26/spanish-economist-to-become-new-european-central-bank-chief?traffic_source=rss"
         },
         {
           "name": "CNBC",
-          "title": "U.S. jury convicts Huawei in a criminal trial over fraud and trade secrets",
-          "link": "https://www.cnbc.com/2026/11/25/huawei-fraud-trade-trial.html"
+          "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank",
+          "link": "https://www.cnbc.com/2026/11/26/pablo-hernandez-de-cos-ecb-president.html"
+        }
+      ],
+      "llm_rank": 4,
+      "outlets": 4,
+      "score": 0.711
+    },
+    {
+      "rank": 6,
+      "category": "분쟁/안보",
+      "region": "중동",
+      "title": "이스라엘군의 가자지구 공습 지속… 하마스 및 민간인 피해 속출",
+      "short_title": "가자지구 공습",
+      "summary": "이스라엘군의 가자지구 공습으로 하마스 고위 관계자와 아내를 포함해 다수의 팔레스타인인이 사망했습니다. 이달 들어서만 수십 명의 어린이와 학생이 희생되면서 국제사회의 비판과 휴전 촉구가 이어지고 있습니다.",
+      "why_it_matters": "인도주의적 위기가 극에 달한 가운데 중동 평화 협상과 국제법적 논란이 계속해서 심화되고 있습니다.",
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Hamas political official and wife among eight Palestinians killed in Israeli strikes on Gaza",
+          "link": "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Israeli strikes kill 16 schoolchildren so far this month, Gaza ministry says",
+          "link": "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Palestinian journalist killed by Israel in Gaza wins Rory Peck prize",
+          "link": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize"
+        },
+        {
+          "name": "Reuters",
+          "title": "Hamas weighs response after Israel kills 10 people in Gaza",
+          "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNzFiM29KUVhvZHZUYTV1SWtlLXNYbXg3ZzRodFVmanZkNzJsczZ4UldfRkNkSW1fVDhMaTFYOW9ETUxXaXFKcktCTThoYnBYS21mVjQxYkNWM19MR1h0WHNSdjlGenRTNkExU2RKU0ZKNUhCRWR0OVU2VmFqTUJHeE5QMVNybDE4Qk1WTmp5VGgyWDV0NjhaM3h4Ulp1bWZDUThnSlI0TFMwMnQzNk5KQnZXVTRCUUxvc2FLbmlDYVREeHpwOUpV?oc=5"
+        }
+      ],
+      "llm_rank": 7,
+      "outlets": 3,
+      "score": 0.503
+    },
+    {
+      "rank": 7,
+      "category": "정치/외교",
+      "region": "유럽",
+      "title": "영국, 브렉시트 후 순이민자 수 1997년 이후 최저 수준으로 급감",
+      "short_title": "영국 이민자 급감",
+      "summary": "영국의 순이민자 수가 팬데믹 기간을 제외하면 1997년 이후 가장 낮은 수준인 7만 7,000명으로 떨어졌습니다. 이는 대중적 반발에 대응해 이민 통제를 강화한 정부 정책의 결과로 분석됩니다.",
+      "why_it_matters": "유럽 각국의 정치 지형을 흔드는 핵심 이슈인 이민 정책의 실제 효과를 보여주며 노동 시장과 경제에 복합적인 영향을 미치고 있습니다.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "How much of the sharp fall in UK immigration is due to Labour’s policies?",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Net migration to UK falls to lowest level since 1997 excluding pandemic",
+          "link": "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic"
+        },
+        {
+          "name": "NYT",
+          "title": "Net Migration to U.K. Falls to Lowest Level Since 1997, Excluding Pandemic",
+          "link": "https://www.nytimes.com/2026/11/26/world/europe/uk-net-migration-data.html"
+        }
+      ],
+      "llm_rank": 6,
+      "outlets": 2,
+      "score": 0.466
+    },
+    {
+      "rank": 8,
+      "category": "기후/환경",
+      "region": "미국",
+      "title": "추수감사절 연휴 앞두고 미국 동부 강풍·폭우·홍수 등 극한 기상 직격탄",
+      "short_title": "미국 동부 폭풍",
+      "summary": "미국 동부 지역에 강력한 폭풍과 폭우, 해수면 상승이 겹치면서 수십만 가구가 정전되고 대규모 항공편 지연 및 결항이 발생했습니다. 추수감사절 연휴를 맞아 귀성객들의 큰 불편이 이어지고 있습니다.",
+      "why_it_matters": "이상기후로 인한 인프라 마비가 명절 연휴 경제 활동과 물류 시스템에 직접적인 타격을 입히고 있습니다.",
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
+          "link": "https://www.bbc.co.uk/news/videos/cq808d704m22o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR",
+          "title": "Storms disrupt Thanksgiving travel. And, FCC violated ABC's free speech, judge says",
+          "link": "https://www.npr.org/2026/11/26/g-s1-155950/up-first-newsletter-thanksgiving-weather-travel-trump-tariffs-iowa-detonation-fcc-free-speech"
+        },
+        {
+          "name": "Washington Post",
+          "title": "Flight delays, flooding and outages grow as storm batters East Coast",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVV91OWdaQ1cwTHRxZU5wdzBlZjViam1uYmV3Wmd1bTV1QjJlS2dXLW1STjA1WTFUWElVdlNpMDF1Tk5BZmY4MTN4WVU1UHoyN1NoNUxZdXVkdzFzRVFpZWNfVzl3TW9iRTJNU2xaS3J1SWQ1OGpxV3NwdFhHOU1iSUtYWG9tYlZVX2lVR21yWFZIS1NkQWxOODVlS2dNalRwR01JbUZ0NmhKNVpLMkJHYTZmb1IyVkZaSHZGUEdOZzNlcDQ?oc=5"
+        },
+        {
+          "name": "BBC",
+          "title": "Thanksgiving weather live: Hundreds of flights cancelled and thousands without power in US",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14YzIxZTdCRjdUaFNoUzJuQ2tJeEt4TnZpWFlaRk5CMEU0TXViZTVVWnNDM0ZPMGhsZ1F3NHB0ckN6M2U3U185QkVtelNuQkw3bEZUMGVn?oc=5"
+        },
+        {
+          "name": "STLPR",
+          "title": "Lost power on Thanksgiving? What to know as 125,000 homes in St. Louis region wait for crews",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV2tkNFdLc1JYQ1FJaVlVQTQ1TjlNTm9HYVotc0xMOU1YR3F2RkVFeFJFelhJcFFlWURlbUhBWDNxNVhSTFl0Z1ktYTZqS01FYW13SHZ5VWw1ekh6YldGNERFSW10eFZhQWdfS21KMFhFOUhUb0o3MVJsRWtnV2FRTWgwZ2VPZTBlTEFmT2tGZ2xPTDBXQmx4dWxaNm5kNHFxdUg2VTltYTJXWkVKZXV3M0lGdw?oc=5"
+        }
+      ],
+      "llm_rank": 8,
+      "outlets": 3,
+      "score": 0.46
+    },
+    {
+      "rank": 9,
+      "category": "정치/외교",
+      "region": "아시아",
+      "title": "북한 김정은, 핵무기 증산 촉구하며 대화 거부 입장 재확인",
+      "short_title": "북한 핵무기 증산",
+      "summary": "김정은 북한 국무위원장이 핵물질 생산 시설을 시찰하고 한미 양국의 위협에 대응하기 위해 핵무기 병력을 지속해서 확대하겠다고 밝혔습니다. 국제사회의 비핵화 압박을 완전히 거부하는 태도를 분명히 했습니다.",
+      "why_it_matters": "한반도를 포함한 동북아 안보 정세의 불안정성을 높이고 국제 비확산 체제에 심각한 도전이 되고 있습니다.",
+      "sources": [
+        {
+          "name": "NPR",
+          "title": "North Korea's Kim vows to build more nuclear weapons after ignoring Trump's overture",
+          "link": "https://www.npr.org/2026/11/26/g-s1-155955/north-korea-kim-nuclear-weapons-trump"
+        },
+        {
+          "name": "CNBC",
+          "title": "North Korea's Kim calls for nuclear arsenal expansion, says status 'will never change'",
+          "link": "https://www.cnbc.com/2026/11/26/north-korea-kim-nuclear-weapons-expansion.html"
         }
       ],
       "llm_rank": 9,
       "outlets": 2,
       "score": 0.337
+    },
+    {
+      "rank": 10,
+      "category": "기술/과학",
+      "region": "글로벌",
+      "title": "스페이스X, 우주 데이터센터용 위성 100만 기 배치 계획 승인 획득",
+      "short_title": "스페이스X 위성 승인",
+      "summary": "미국 연방통신위원회(FCC)가 급증하는 AI 컴퓨팅 수요에 대응하기 위해 스페이스X의 저궤도 데이터센터 위성군 구축 계획을 승인했습니다. 다만 천문학계 등 과학자들 사이에서는 우려의 목소리도 나오고 있습니다.",
+      "why_it_matters": "우주 공간을 활용한 차세대 AI 인프라 구축이 본격화되면서 우주 경제와 환경에 미칠 파장이 주목됩니다.",
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+          "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "NPR",
+          "title": "FCC says SpaceX can deploy 1 million satellites for data centers in space. Scientists are skeptical",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZG13czFudWQ3VkwwYUhKMlYyMXlETDZuay1ZcVVleUYtQXRRWWhDRTRNVHhVRGFEU1dNSFJQSXlqcnlKWTZNM2daM01zcEpCTXlyOXRsWFFOV0diaE9rbHhBYWo5SXJMN2hPY2x5TFdFc0ZLTjhpVVcwcElqaDh6ZC1kclVydDVCd1pBMURqSQ?oc=5"
+        }
+      ],
+      "llm_rank": 10,
+      "outlets": 2,
+      "score": 0.294
     }
   ],
   "digest": {
     "weekly": {
-      "text": "미국이 중국과 EU 등 14개 교역국을 상대로 신규 관세 부과를 발표하고 법원이 화웨이의 영업비밀 절도 혐의에 유죄를 평결하면서 통상과 기술 분야의 갈등이 한층 고조되었으며, 트럼프 대통령의 개입으로 이뤄진 엔비디아 젠슨 황 CEO 복귀를 둘러싼 안보 논란과 미국의 인플레이션 가속으로 금융 시장의 불안이 커졌습니다. 동시에 우크라이나가 리비아에 정박 중이던 러시아 군함을 타격하고 예멘 후티 반군이 사우디아라비아 수도 리야드의 고층 빌딩을 드론으로 공격하는 등 주요 분쟁 지역의 군사적 긴장도 거세졌습니다.",
-      "days": 2
+      "text": "최근 일주일간 국제 사회는 미국을 중심으로 한 강력한 무역 제재와 기술 통제가 글로벌 경제와 기술 시장에 큰 파장을 일으켰습니다. 미국은 중국과 EU 등 14개 교역국을 상대로 신규 관세를 부과하고 대중국 AI 반도체 규제를 대폭 강화했으며, 이 과정에서 젠슨 황 엔비디아 CEO의 복귀를 둘러싼 안보 논란과 동남아 출하 중단 등이 겹쳤습니다. 한편, 중동 지역에서는 예멘 후티 반군의 드론 공격과 쿠웨이트 미군 기지 인근 피습 등으로 긴장이 고조되었고, 우크라이나 전쟁과 미얀마·시리아 등지에서의 분쟁으로 인한 인명 피해도 지속되었습니다.",
+      "days": 3
     }
   },
-  "date": "2026-11-26"
+  "date": "2026-11-27"
 }
