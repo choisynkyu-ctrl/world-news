@@ -1,0 +1,337 @@
+{
+  "headline_of_day": "미국의 대중국 반도체 규제 강화와 중동발 에너지 위기가 글로벌 증시와 항공업계에 타격을 주는 가운데, 스페인 조기 총선과 우크라이나 전쟁 등 주요 국제 현안들이 격화하고 있습니다.",
+  "stories": [
+    {
+      "rank": 1,
+      "category": "경제/금융",
+      "region": "유럽",
+      "title": "중동 전쟁 여파로 유가 급등… 노르스 아틀란틱 항공 파산 신청",
+      "short_title": "노르스 아틀란틱 파산",
+      "summary": "이란 전쟁 등으로 인한 항공유 가격 폭등과 자금 조달 실패를 견디지 못한 유럽 저비용 항공사 노르스 아틀란틱이 결국 파산을 신청하고 모든 운항을 중단했습니다. 고유가 충격이 항공 업계 전반으로 확산되고 있습니다.",
+      "why_it_matters": "지정학적 갈등이 실물 경제와 취약한 글로벌 항공사들의 연쇄 파산으로 이어지는 리스크를 보여줍니다.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "Norse Atlantic Airways files for bankruptcy and cancels all future flights",
+          "link": "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights"
+        },
+        {
+          "name": "DW",
+          "title": "Airline Norse Atlantic files for bankruptcy, succumbing to aviation fuel costs",
+          "link": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "name": "CNBC",
+          "title": "Budget airline Norse Atlantic files for bankruptcy in Europe after failing to secure funding",
+          "link": "https://www.cnbc.com/2026/11/27/norse-atlantic-bankruptcy-fuel-costs.html"
+        },
+        {
+          "name": "Reuters",
+          "title": "Airline Norse Atlantic's Norwegian operating unit declares bankruptcy",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZjF6SXBzRmpCeHczaU9VZnNGczNjcWtlMXNCMUFrTUxfbUViN3cxUXpPbFU0YVRTQzU0aEY5MGdLY1hnU2I1R21jd2tYNnIyLVVLeEtoSEY2WjZKNTE0QkdLWWFzcmkySGFYUWE4Vmh3OVpzLWJ3V25LX18zSUJ4TS1TcExrVFFoUUVvOS13NmF1dUZJWVo1S2hLRlZaNmMzTWh1dDFsTHpXUzlzN2lWQ01sc1VVR0hOUzlZSTJ3?oc=5"
+        }
+      ],
+      "llm_rank": 2,
+      "outlets": 4,
+      "score": 0.797
+    },
+    {
+      "rank": 2,
+      "category": "정치/외교",
+      "region": "유럽",
+      "title": "스페인 조기 총선 임박… 극우 복스(Vox) 집권 가능성에 이목 집중",
+      "short_title": "스페인 조기 총선",
+      "summary": "스페인이 8년간의 사회당 집권 여부를 결정할 운명의 조기 총선을 앞두고 있습니다. 페드로 산체스 총리가 정권 방어를 위해 총력전을 펼치는 가운데, 프랑코 정권 이후 처음으로 극우 정당이 연정에 참여할지 주목됩니다.",
+      "why_it_matters": "유럽 내 극우 세력 확장 흐름 속에서 스페인의 정치 지형 변화가 EU 전체의 정치 역학에 미칠 파장이 큽니다.",
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Spanish PM and rivals rally supporters in final pitch for votes",
+          "link": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
+          "link": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates"
+        },
+        {
+          "name": "NYT",
+          "title": "Spain’s Far-Right Era Ended in 1975. Will This Man Change That?",
+          "link": "https://www.nytimes.com/2026/11/27/world/europe/santiago-abascal-vox-spain-far-right.html"
+        },
+        {
+          "name": "CNBC",
+          "title": "Spain’s election could pull Madrid closer to Trump’s Washington",
+          "link": "https://www.cnbc.com/2026/11/27/spain-election-trump-sanchez.html"
+        },
+        {
+          "name": "CNBC",
+          "title": "Spain Votes: Will Sanchez's big gamble pay off?",
+          "link": "https://www.cnbc.com/video/2026/11/27/spain-election-preview-sanchez-feijoo-vox.html"
+        },
+        {
+          "name": "Reuters",
+          "title": "Spain's far-right Vox leader Abascal nears power as election kingmaker",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPX1AxaFV1YTZ1VFB6MmVETG5iUmpxLWNEbjVDejhPZjJIVml6ZExzVGdxdGlmQUtfbkJ6ZUVWMzd6TDVVb1BsT1UtVXdXa3llbjFKbkFyQUJRdjJiUFdhVmxKdXpIemxhcDlLN1JpTDdHX3dhUzBQUmZRMGR6ZzZEOXNwWUFmVjU2ckRNcUI4TVVxT2ZHQWQ0RFdyZDBxajRrM3N2N0RhYw?oc=5"
+        }
+      ],
+      "llm_rank": 4,
+      "outlets": 5,
+      "score": 0.791
+    },
+    {
+      "rank": 3,
+      "category": "분쟁/안보",
+      "region": "유럽",
+      "title": "젤렌스키, 트럼프·푸틴 관계 비판… 우크라이나, 혹독한 겨울 대비",
+      "short_title": "젤렌스키 트럼프 비판",
+      "summary": "볼로디미르 젤렌스키 우크라이나 대통령이 BBC 인터뷰에서 도널드 트럼프 미국 대통령 당선인과 블라디미르 푸틴 러시아 대통령의 '이상한 우정'을 비판했습니다. 우크라이나는 러시아의 에너지 시설 집중 공략 속에서 또 한 번의 혹독한 겨울을 맞이하고 있습니다.",
+      "why_it_matters": "미국의 대외 정책 변화와 종전 협상 향방이 우크라이나의 생존과 유럽 안보에 결정적 영향을 미칩니다.",
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+          "link": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "BBC",
+          "title": "Weary of war but with no sign of backing down, Kyiv faces another punishing winter",
+          "link": "https://www.bbc.co.uk/news/articles/c3pw4yrr8kz9o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "Al Jazeera",
+          "title": "Kyiv offers Black Sea ceasefire to protect grain exports",
+          "link": "https://www.aljazeera.com/news/2026/11/27/kyiv-offers-black-sea-ceasefire-as-putin-expands-russias-navy?traffic_source=rss"
+        },
+        {
+          "name": "CNBC",
+          "title": "Trump, NATO chief caution Russia as attacks on Ukraine’s energy infrastructure intensify",
+          "link": "https://www.cnbc.com/2026/11/26/trump-nato-rutte-russia-ukraine-war.html"
+        }
+      ],
+      "llm_rank": 3,
+      "outlets": 3,
+      "score": 0.674
+    },
+    {
+      "rank": 4,
+      "category": "사회",
+      "region": "유럽",
+      "title": "캐나다 대법원, 공공부문 종교 상징물 금지 퀘벡주 법률 합헌 판결",
+      "short_title": "퀘벡 종교 상징물 합헌",
+      "summary": "캐나다 대법원이 공무원들의 히잡, 터번 등 종교적 상징물 착용을 금지한 퀘벡주의 세속주의 법률에 대해 대부분 합헌 결정을 내렸습니다. 소수자의 기본권과 정부의 입법 권한을 둘러싼 오랜 논쟁이 이어지고 있습니다.",
+      "why_it_matters": "다문화 사회인 캐나다에서 종교의 자유와 주정부의 자치권 간의 해묵은 갈등에 중요한 법적 선례가 됩니다.",
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "Canada's top court largely upholds Quebec ban on religious symbols for public servants",
+          "link": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "The Guardian",
+          "title": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+          "link": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols"
+        },
+        {
+          "name": "NYT",
+          "title": "Quebec Can Keep Its Ban on Religious Symbols, Canada’s Top Court Rules",
+          "link": "https://www.nytimes.com/2026/11/27/world/canada/canada-supreme-court-quebec-religion-bill-21.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "title": "Canada’s top court largely upholds Quebec’s religious symbols ban",
+          "link": "https://www.aljazeera.com/news/2026/11/27/canadas-top-court-largely-upholds-quebecs-religious-symbols-ban?traffic_source=rss"
+        },
+        {
+          "name": "DW",
+          "title": "Canada: Supreme Court largely upholds Quebec secularism bill",
+          "link": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80082571?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "name": "AP",
+          "title": "Canada’s Supreme Court largely upholds a Quebec ban on religious symbols for public servants",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOE9BOWJaNlNZVUhPNE90VDU0SDNmbUxQNjZITWlkbEowX3E3d3RaRW1SVXVnbFlhVUh4RmNiUGJmckltOFpvb25PQkV6R05IVnRLNFpCbE1DYTRVenM4Z2I1eWdOeVVJcEdsMlJMYWlIYk4zeFJxYmZYWEI4RTUxNDk5YWxzQVZkdWExcFFkR0xpcUV1b0lMV08tNFlnWG1MZXV1RTZnWGg?oc=5"
+        }
+      ],
+      "llm_rank": 10,
+      "outlets": 6,
+      "score": 0.614
+    },
+    {
+      "rank": 5,
+      "category": "기술/과학",
+      "region": "미국",
+      "title": "미국 대중국 반도체 규제 강화 여파에 엔비디아, 동남아 칩 선적 중단",
+      "short_title": "엔비디아 동남아 선적 중단",
+      "summary": "미국의 새로운 인공지능(AI) 칩 관련 대중국 규제 우회 차단 조치에 따라, 엔비디아가 동남아시아 지역으로의 칩 선적을 일시 중단했습니다. 이번 조치는 AI 칩 공급망과 글로벌 기술 시장에 직접적인 충격을 주고 있습니다.",
+      "why_it_matters": "미국의 대중국 반도체 제재가 인접 지역으로 확산되면서 글로벌 공급망 재편과 국내 반도체 산업에 미칠 파장이 주목됩니다.",
+      "sources": [
+        {
+          "name": "NYT",
+          "title": "Nvidia Halts Sales to Southeast Asia as U.S. Tightens China Restrictions",
+          "link": "https://www.nytimes.com/2026/11/26/business/nvidia-southeast-asia-sales.html"
+        },
+        {
+          "name": "TechCrunch",
+          "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+          "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd3BvSkxTQnd6ZVRTQUJ4RHBUY3l5M0J1aW1yTl9zUVFNaE1tUjlrVG1MeE9lVlNTMTVrOFFPUjA3R0RnWktyNERHcGhnWk9YYlQ3RXRRVXQtUXhCZDg3d3Foa2dxZndDSTU5UW51eU1ZSW91Nk45bFFZVjk2YzU0MGtwal9zbldIVU93NkpDLTFXdw?oc=5"
+        }
+      ],
+      "llm_rank": 1,
+      "outlets": 1,
+      "score": 0.6
+    },
+    {
+      "rank": 6,
+      "category": "정치/외교",
+      "region": "유럽",
+      "title": "EU 예산안 및 우크라이나 지원 협상 결렬… 회원국 간 균열 심화",
+      "short_title": "EU 예산안 협상 결렬",
+      "summary": "EU 지도자들이 7년 장기 예산안과 우크라이나 지원 방안을 두고 합의 도출에 실패했습니다. 미국 빅테크 과세 등 재원 마련 방안을 둘러싼 이견으로 연말 최종 합의에 빨간불이 켰습니다.",
+      "why_it_matters": "유럽 통합의 핵심인 재정 연대와 대외 공동 대응력이 약화될 수 있다는 우려를 낳고 있습니다.",
+      "sources": [
+        {
+          "name": "BBC",
+          "title": "EU leaders fail to bridge budget splits as talks stall",
+          "link": "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno?at_medium=RSS&at_campaign=rss"
+        },
+        {
+          "name": "DW",
+          "title": "Divisions deepen between EU member states after tense budget summit",
+          "link": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599?maca=en-rss-en-world-4025-rdf"
+        },
+        {
+          "name": "CNBC",
+          "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts",
+          "link": "https://www.cnbc.com/2026/11/27/eu-budget-2028-2034-deadlock.html"
+        },
+        {
+          "name": "Euronews.com",
+          "title": "The art of no deal: An EU summit of spectacular dysfunction",
+          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ2ZkVDVja2NWRlBOOU52QjUxZ2JaU3pyN1NHM0MzOXFKUnBqU1lpSVdCUVNxaWdVMUNXbFVJUjdCTGlxaG1tNnItaFFiVGxQQ3NrNVBwbzhhV2s3b1VuMEJYOWN2bElYOFJvQTlyUldZcG9oT2VuZXRncm15VmlrYkcxdHdUMVJ3Y2c0X1ZRbC11N2hoNXgwWXV3?oc=5"
+        }
+      ],
+      "llm_rank": 5,
+      "outlets": 3,
+      "score": 0.589
+    },
+    {
+      "rank": 7,
+      "category": "분쟁/안보",
+      "region": "중동",
+      "title": "쿠웨이트 내 미군기지 인근 드론 공격으로 이탈리아인 2명 사망",
+      "short_title": "쿠웨이트 드론 피습",
+      "summary": "쿠웨이트에서 이란의 소행으로 추정되는 드론 공격으로 이탈리아 국적자 2명이 사망했습니다. 걸프 지역의 미군 주둔국들을 겨냥한 공습이 이어지며 중동 긴장이 최고조에 달하고 있습니다.",
+      "why_it_matters": "중동 전쟁의 전선이 주변국으로 확전되면서 글로벌 안보와 인명피해 우려가 커지고 있습니다.",
+      "sources": [
+        {
+          "name": "NYT",
+          "title": "Two Italians Killed in Iranian Drone Attack on Kuwait, Officials Say",
+          "link": "https://www.nytimes.com/2026/11/26/world/middleeast/italians-killed-iran-drone-attack-kuwait.html"
+        },
+        {
+          "name": "CNBC",
+          "title": "Two Italians killed in Kuwait drone attack; Trump says Iran war ends ‘whenever I want it’",
+          "link": "https://www.cnbc.com/2026/11/27/us-iran-war-trump-hormuz-italian-killed-trump.html"
+        },
+        {
+          "name": "Al Jazeera",
+          "title": "Italians killed in Kuwait: Why is Iran denying responsibility?",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQM3JrUmVYMExlMzNxaTY5VU1YWXctcThoZUJmU2FBN1lhbElJVGFrcTBnQWZUTVBtVUpaOTlKcUFwcUZkbTR4UHp1aS1mTUtZYUtmZjZFTGdRdzN3RXduVzZLZTJMLVlTc0tKMGRzTUM1UG9sMDF1dEZHZVZXak5HZnd2dFhkY1RxTFQyTVNpVTJnMU5Vd1NBOU9rYzNmbFlWUE1jQ9IBqgFBVV95cUxONkE1UFBtWXZSQnl0eGFwN2FHMFlrNzE5NEVGYW9ESWVoU2d0S3RUQUtBREdVMGxGOFdtd1hhN3FVVWlBaTYzS1RFLW9IcWZtMTIzdXJDZ2cybWkzWWpqemtqTG5QUFR0eU1pcFpnd2RsbkNldEFFNlo3QmFLc2JZZ21PbDZFaVdOanllUEZERk9IdDBHNjVNXzNKTGtmd0VyTHdfYXNFRzd0Zw?oc=5"
+        }
+      ],
+      "llm_rank": 6,
+      "outlets": 3,
+      "score": 0.546
+    },
+    {
+      "rank": 8,
+      "category": "경제/금융",
+      "region": "미국",
+      "title": "뉴욕증시, 연휴 앞두고 랠리… 다우지수 2022년 이후 최고의 주간 기록",
+      "short_title": "뉴욕증시 주간 랠리",
+      "summary": "변동성 장세가 이어졌던 뉴욕증시가 주간 거래 마감을 앞두고 급등세를 보였습니다. 다우지수는 빅테크 반등과 블랙프라이데이 쇼핑 시즌 기대감에 힘입어 2022년 이후 가장 강력한 한 주를 기록했습니다.",
+      "why_it_matters": "연말 소비 시즌을 맞아 글로벌 금융시장의 투자 심리가 안정을 찾고 있음을 보여주는 지표입니다.",
+      "sources": [
+        {
+          "name": "NYT",
+          "title": "Stocks Rally at End of a Week of Wild Swings",
+          "link": "https://www.nytimes.com/2026/11/27/business/stocks-tech-stocks-ai.html"
+        },
+        {
+          "name": "CNBC",
+          "title": "Dow rallies nearly 600 points to close out best week since 2022: Live updates",
+          "link": "https://www.cnbc.com/2026/11/26/stock-market-today-live-updates.html"
+        },
+        {
+          "name": "MarketWatch",
+          "title": "Stock Market News Nov. 27, 2026: Dow zooms higher, clinches best week since 2022 as stocks rebound in holiday-shortened trade",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQ3U3andqWFB6Qk9kcW51T1h6M3NpYkVDdmpKRzFXNVMxb0tLYjFzY29KeHF3d1czcUwxTmNrRDF5ZXVHX0tkZ0FFZkQyVUNqRjdaZHJnWGV5dlprNXJ5cHkyTk1od05NaktPM1JKeEV2QTdDeEVxSkFQckQwSTNCbE5aa1BzdWpFOFIzcnZQVF9tVmdmV2EtXy1QREhzc2hGYkFaUVI0X0JjUmkyYmNkNU5FRjBOaWRsSkEzamZzYldqVjRBX2JvTGh3?oc=5"
+        },
+        {
+          "name": "Yahoo Finance",
+          "title": "Stocks snap from a $6 trillion washout to a $3.5 trillion surge as Nvidia, Micron, and SpaceX bounce back",
+          "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQnNIN21ZLWU4dTFmYXh6TnluRXFFY3cxNGJ6ZGZ3QnFTdmdVUF9POFExV01NQVM1Z2tTdW1KekwtOXlXeExfQmtWcVNLcE5TSEQ3Nnd5b0UxZVQ0SEVLeW1fOXFXbGxWVmlUaTE4SzZPQ01kaFAyS093VVlIaXRheHdiYVBnRndvUHRlaXlRYU56dmVGRkN4NkF0eC13R3k1VUk4eV94Q1YzY2R3akR6SXNMajV3RTNVQ2tHOU5QT3R1YU5JTFJ4eVRxSFlnelU1STFtSm5yRVdNUllYZ1F5UTJ4bWF2RzB5akFSNQ?oc=5"
+        }
+      ],
+      "llm_rank": 8,
+      "outlets": 2,
+      "score": 0.38
+    },
+    {
+      "rank": 9,
+      "category": "기술/과학",
+      "region": "미국",
+      "title": "미 공군 핵심 클라우드 플랫폼 '클라우드 원' 해킹 피해 확인",
+      "short_title": "미 공군 클라우드 해킹",
+      "summary": "미 공군의 핵심 컴퓨터 플랫폼인 '클라우드 원'이 최근 해커들의 공격을 받아 침해당한 사실이 드러났습니다. 시스템 업그레이드 과정에서 보안 취약점이 노출된 것으로 알려졌습니다.",
+      "why_it_matters": "세계 최강의 군사력을 자랑하는 미군의 핵심 IT 인프라가 사이버 공격에 뚫리면서 국가 안보 보안 체계에 비상이 걸렸습니다.",
+      "sources": [
+        {
+          "name": "CNBC",
+          "title": "Hackers breach U.S. Air Force flagship Cloud One computing platform",
+          "link": "https://www.cnbc.com/2026/11/27/hackers-breach-us-air-force-flagship-cloud-one-computing-platform.html"
+        },
+        {
+          "name": "Gizmodo",
+          "title": "Hackers Broke Into the U.S. Air Force’s Cloud Systems",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWd4SFpCVGxyU0hJQXdJMThsVFBjbjNoZnFhSDluSGx3WjRIblExZC1hN3FsSmtiX2JxNVpuZGlHckFTMTZiZGk2X2t6dFdVc1JDdzlUYkVsREpWSHk3RUZfZlBDazdBbGNiSkVSNjZDWmVqRXFBR2s3T0pNR0pJZGVfTkpXZFBKWGc?oc=5"
+        }
+      ],
+      "llm_rank": 7,
+      "outlets": 1,
+      "score": 0.343
+    },
+    {
+      "rank": 10,
+      "category": "정치/외교",
+      "region": "중동",
+      "title": "이스라엘 법원, 네타냐후 총리 부패 재판 기각 권고… 정국 요동",
+      "short_title": "네타냐후 재판 기각 권고",
+      "summary": "이스라엘 사법부가 베냐민 네타냐후 총리의 오랜 부패 혐의 재판에 대해 검찰에 공소 기각을 권고하는 이례적인 개입을 했습니다. 혼란스러운 정국 속에서 정치적 파장이 거세지고 있습니다.",
+      "why_it_matters": "이스라엘 국내 정치의 향방과 가자 지구 전쟁 등 중동 외교·안보 정책에 지대한 영향을 미칠 사안입니다.",
+      "sources": [
+        {
+          "name": "The Guardian",
+          "title": "Momentous decision looms after judges call for Netanyahu charges to be dropped",
+          "link": "https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges"
+        },
+        {
+          "name": "NYT",
+          "title": "Judges in Israel Suggest Dropping Key Corruption Case Against Netanyahu",
+          "link": "https://www.nytimes.com/2026/11/25/world/middleeast/judges-israel-corruption-case-netanyahu.html"
+        }
+      ],
+      "llm_rank": 9,
+      "outlets": 2,
+      "score": 0.337
+    }
+  ],
+  "digest": {
+    "weekly": {
+      "text": "최근 국제사회는 미국의 대대적인 관세 부과와 대중국 반도체 규제 강화로 인해 글로벌 교역과 공급망 전반에 큰 긴장감이 감돌았습니다. 미국 법원이 화웨이에 유죄 평결을 내린 가운데, 엔비디아는 대미 규제 여파로 동남아 선적을 일시 중단하며 타격을 입었습니다. 또한 중동 지역에서는 예멘 후티 반군과 드론 공격 등 분쟁이 격화되었고, 우크라이나 전쟁과 맞물려 글로벌 안보 불안이 가중되었습니다.",
+      "days": 4
+    }
+  },
+  "date": "2026-11-28"
+}
